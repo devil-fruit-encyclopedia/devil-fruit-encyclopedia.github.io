@@ -1,0 +1,128 @@
+[
+{
+"extID":3,
+"Name":"Plume Plume Fruit",
+"Japanese_Name":"Moku Moku no mi",
+"Type":"Logia",
+"image":"images/plume.png",
+"Description":"Allows you to create, control, and transform into smoke at will",
+"wiki":"https://onepiece.fandom.com/wiki/Moku_Moku_no_Mi"
+},
+{
+"extID":9,
+"Name":"Sand Sand Fruit",
+"Japanese_Name":"Suna Suna no mi",
+"Type":"Logia",
+"image":"images/sand.png",
+"Description":"Allows you to create, control, and transform into sand at will",
+"wiki":"https://onepiece.fandom.com/wiki/Suna_Suna_no_Mi"
+},
+{
+"extID":14,
+"Name":"Flame Flame Fruit",
+"Japanese_Name":"Mera Mera no mi ",
+"Type":"Logia",
+"image":"images/flame.png",
+"Description":"Allows you to create, control, and transform into fire at will",
+"wiki":"https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi"
+},
+{
+"extID":25,
+"Name":"Rumble Rumble Fruit",
+"Japanese_Name":"Goro Goro no mi",
+"Type":"Logia",
+"image":"images/rumble.png",
+"Description":"Allows you to create, control, and transform into lightning at will",
+"wiki":"https://onepiece.fandom.com/wiki/Goro_Goro_no_Mi"
+},
+{
+"extID":27,
+"Name":"Ice Ice Fruit",
+"Japanese_Name":"Hie Hie no mi",
+"Type":"Logia",
+"image":"images/ice.png",
+"Description":"Allows you to create, control, and transform into ice at will",
+"wiki":"https://onepiece.fandom.com/wiki/Hie_Hie_no_Mi"
+},
+{
+"extID":37,
+"Name":"Dark Dark Fruit",
+"Japanese_Name":"Yami Yami no mi",
+"Type":"Logia",
+"image":"images/dark.png",
+"Description":"Allows you to create, control, and transform into darkness at will",
+"wiki":"https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi"
+},
+{
+"extID":45,
+"Name":"Glint Glint Fruit",
+"Japanese_Name":"Pika Pika no mi",
+"Type":"Logia",
+"image":"images/glint.png",
+"Description":"Allows you to create, control, and transform into light at will",
+"wiki":"https://onepiece.fandom.com/wiki/Pika_Pika_no_Mi"
+},
+{
+"extID":66,
+"Name":"Mag Mag Fruit",
+"Japanese_Name":"Magu Magu no mi",
+"Type":"Logia",
+"image":"images/mag.png",
+"Description":"Allows you to create, control, and transform into magma at will",
+"wiki":"https://onepiece.fandom.com/wiki/Magu_Magu_no_Mi"
+},
+{
+"extID":71,
+"Name":"Swamp Swamp Fruit",
+"Japanese_Name":"Numa Numa no mi",
+"Type":"Logia",
+"image":"images/swamp.png",
+"Description":"Allows you to create, control, and transform into mud at will",
+"wiki":"https://onepiece.fandom.com/wiki/Numa_Numa_no_Mi"
+},
+{
+"extID":76,
+"Name":"Gas Gas Fruit",
+"Japanese_Name":"Gasu Gasu no mi",
+"Type":"Logia",
+"image":"images/gas.png",
+"Description":"Allows you to create, control, and transform into gas at will",
+"wiki":"https://onepiece.fandom.com/wiki/Gasu_Gasu_no_Mi"
+},
+{
+"extID":79,
+"Name":"Snow Snow Fruit",
+"Japanese_Name":"Yuki Yuki no mi",
+"Type":"Logia",
+"image":"images/snow.png",
+"Description":"Allows you to create, control, and transform into snow at will",
+"wiki":"https://onepiece.fandom.com/wiki/Yuki_Yuki_no_Mi"
+},
+{
+"extID":118,
+"Name":"Soot Soot Fruit",
+"Japanese_Name":"Susu Susu no mi",
+"Type":"Logia",
+"image":"images/soot.png",
+"Description":"Allows you to create, control, and transform into soot at will",
+"wiki":"https://onepiece.fandom.com/wiki/Susu_Susu_no_Mi"
+},
+{
+"extID":135,
+"Name":"Woods Woods Fruit",
+"Japanese_Name":"Mori Mori no mi",
+"Type":"Logia",
+"image":"images/woods.png",
+"Description":"Allows you to create, control, and transform into flora at will",
+"wiki":"https://onepiece.fandom.com/wiki/Mori_Mori_no_Mi"
+},
+{
+"extID":150,
+"Name":"Paper Paper Fruit",
+"Japanese_Name":"Pasa Pasa no Mi",
+"Type":"Logia",
+"image":"images/paper.png",
+"Description":"Allows you to create, control, and transform into pieces of paper at will",
+"wiki":"https://onepiece.fandom.com/wiki/Pasa_Pasa_no_Mi"
+}
+]
