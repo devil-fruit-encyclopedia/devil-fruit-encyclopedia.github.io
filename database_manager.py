@@ -18,6 +18,22 @@ f.close()
 
 con = sql.connect("database/data_source.db")
 cur = con.cursor()
+datac = cur.execute('SELECT * FROM "DevilFruits" WHERE "Canon" = "canon";').fetchall()
+con.close()
+z = open("public/frontEndDataC.json", "w")
+z.write("[\n")
+for row in datac:
+    z.write('{\n')
+    z.write(f'"extID":{row[0]},\n"Name":"{row[1]}",\n"Japanese_Name":"{row[2]}",\n"Type":"{row[3]}",\n"image":"{row[4]}",\n"Description":"{row[5]}",\n"wiki":"{row[6]}"\n')
+    if row == datac[len(datac)-1]:
+        z.write("}\n")
+    else:
+        z.write("},\n")
+z.write("]\n")
+z.close()
+
+con = sql.connect("database/data_source.db")
+cur = con.cursor()
 data1 = cur.execute('SELECT * FROM "DevilFruits" WHERE "Type" = "Paramecia";').fetchall()
 con.close()
 a = open("public/frontEndData1.json", "w")
