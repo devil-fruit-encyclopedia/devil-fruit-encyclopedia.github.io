@@ -1,0 +1,47 @@
+[
+{
+"extID":26,
+"Name":"Slow Slow Fruit",
+"Japanese_Name":"Noro Noro no mi",
+"Type":"Paramecia",
+"image":"images/slow.png",
+"Description":"Allows you to emit beams which temporarily slow down your target",
+"wiki":"https://onepiece.fandom.com/wiki/Noro_Noro_no_Mi"
+},
+{
+"extID":66,
+"Name":"Mag Mag Fruit",
+"Japanese_Name":"Magu Magu no mi",
+"Type":"Logia",
+"image":"images/mag.png",
+"Description":"Allows you to create, control, and transform into magma at will",
+"wiki":"https://onepiece.fandom.com/wiki/Magu_Magu_no_Mi"
+},
+{
+"extID":70,
+"Name":"Huge Huge Fruit",
+"Japanese_Name":"Deka Deka no mi",
+"Type":"Paramecia",
+"image":"images/huge.png",
+"Description":"Allows you to grow giant",
+"wiki":"https://onepiece.fandom.com/wiki/Deka_Deka_no_Mi"
+},
+{
+"extID":81,
+"Name":"Spin Spin Fruit",
+"Japanese_Name":"Guru Guru no mi",
+"Type":"Paramecia",
+"image":"images/spin.png",
+"Description":"Allows you to transform any part of your body or piece of worn clothing into propellers capable of rotation at high speed",
+"wiki":"https://onepiece.fandom.com/wiki/Guru_Guru_no_Mi"
+},
+{
+"extID":94,
+"Name":"Ton Ton Fruit",
+"Japanese_Name":"Ton Ton no mi",
+"Type":"Paramecia",
+"image":"images/ton.png",
+"Description":"Allows you to increase their weight to 10,000 tons or down to 0",
+"wiki":"https://onepiece.fandom.com/wiki/Ton_Ton_no_Mi"
+}
+]
