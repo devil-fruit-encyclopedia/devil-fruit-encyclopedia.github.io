@@ -1,16 +1,16 @@
 let result = "";
-fetch("./frontEndData.json")
+fetch("./frontEndDataM.json")
   .then(function (response) {
     return response.json();
   })
-  .then(function (data) {
-    appendData(data);
+  .then(function (datam) {
+    appendData(datam);
   })
   .catch(function (err) {
     console.log("error: " + err);
   });
-function appendData(data) {
-  data.forEach(({ Name, Japanese_Name, Type, image, Description, wiki } = rows) => {
+function appendData(datam) {
+  datam.forEach(({ Name, Japanese_Name, Type, image, Description, wiki } = rows) => {
     result += `
         <div class="card">
         <h3 class="card-about">${Type}</h3>
