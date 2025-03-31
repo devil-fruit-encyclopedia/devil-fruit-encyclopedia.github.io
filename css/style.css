@@ -58,10 +58,10 @@ nav {
   }
   nav ul {
     list-style: none;
-    display: flex;
+    display:flex;
   }
   nav li {
-    margin-right: 1rem;
+    margin: 10px;
   }
   nav ul li a {
     text-decoration-line: none;
@@ -74,12 +74,12 @@ nav {
   nav h1 {
     color: rgb(243, 183, 255);
     text-align: center;
-    margin-left:430px;
-    padding: 30px;
+    margin: 30px;
     font-size: 40px;
+    width: 1%;
   }
   .container {
-    display: grid;
+    display: grid;  
     grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
     grid-gap: 2rem;
     justify-content: center;
