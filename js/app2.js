@@ -10,13 +10,13 @@ fetch("./frontEndData2.json")
     console.log("error: " + err);
   });
 function appendData(data2) {
-  data2.forEach(({ Name, Japanese_Name, Type, image, Description, wiki} = rows) => {
+  data2.forEach(({ Name, Japanese_Name, Type, image, User, Description, wiki, Use } = rows) => {
     result += `
         <div class="card">
+        <img class="card-image" src="${image}" alt="Image of the ${Name}"/>
         <h2 class="card-name">${Name}</h2>
         <h2 class="card-name">${Japanese_Name}</h2>
-        <img class="card-image" src="${image}" alt="Image of the ${Name}"/>
-        <p class="card-link"><div class="dropdown"><span>▼</span><div class="dropdown-content"><p>${Description}<br><br>
+        <p class="card-link"><div class="dropdown"><span>▼</span><div class="dropdown-content"><p>${Description}<br><br>User: ${Use}<br><br><img class="card-image" src="${User}" alt="Image depicting ${Use}"/><br><br>
         <a class="card-link" href="${wiki}"><button class="btn">Read More</button></a></p></div></div></p>
         </div>
         `;

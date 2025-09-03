@@ -20,7 +20,7 @@ p {
   background-color: #461c24;
 }
 main {
-  max-width: 1200px;
+  max-width: 5000px;
   margin: auto;
   padding: 0.5rem;
   text-align: center;
@@ -86,7 +86,7 @@ nav {
     grid-gap: 2rem;
     justify-content: center;
     align-items: center;
-    margin: auto;
+    margin: 1rem;
     padding: 1rem 0;
   }
   .card {

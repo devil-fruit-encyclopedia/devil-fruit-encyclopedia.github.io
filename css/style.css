@@ -21,7 +21,7 @@ p {
   padding: 15px;
 }
 main {
-  max-width: 1200px;
+  max-width: 5000px;
   margin: auto;
   padding: 0.5rem;
   text-align: center;
@@ -41,6 +41,7 @@ div{
     z-index: 1;
   }
   .dropdown:hover .dropdown-content {
+    transition: 1s;
     display: contents;
   }
   .dropdown:active .dropdown-content {
@@ -84,7 +85,7 @@ nav {
     grid-gap: 2rem;
     justify-content: center;
     align-items: center;
-    margin: auto;
+    margin: 1rem;
     padding: 1rem 0;
   }
   .card {

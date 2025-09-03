@@ -1,1379 +1,2078 @@
 [
 {
 "extID":1,
+"Num":"1",
 "Name":"Gum Gum Fruit",
 "Japanese_Name":"Gomu Gomu no mi",
 "Type":"Paramecia",
 "image":"images/gum.png",
+"User":"images/people/gum1.png",
 "Description":"Permanently turns your body into rubber giving you the ability to stretch at will",
-"wiki":"https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi",
+"Use":"Monkey D. Luffy"
 },
 {
 "extID":2,
+"Num":"2",
 "Name":"Chop Chop Fruit",
 "Japanese_Name":"Bara Bara no mi",
 "Type":"Paramecia",
 "image":"images/chop.png",
+"User":"images/people/chop1.png",
 "Description":"Allows your body to be able to split apart into pieces and control the said pieces however you wish, making you immune to slashing attacks",
-"wiki":"https://onepiece.fandom.com/wiki/Bara_Bara_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Bara_Bara_no_Mi",
+"Use":"Buggy"
 },
 {
 "extID":3,
+"Num":"1",
+"Name":"Scream Scream Fruit",
+"Japanese_Name":"Goe Goe no mi",
+"Type":"Paramecia",
+"image":"images/scream.png",
+"User":"images/people/scream1.png",
+"Description":"Allows you to have a highly destructive voice",
+"wiki":"https://onepiece.fandom.com/wiki/Goe_Goe_no_Mi",
+"Use":"Eldoraggo"
+},
+{
+"extID":4,
+"Num":"2",
+"Name":"Liquid Liquid Fruit",
+"Japanese_Name":"Toro Toro no mi",
+"Type":"Logia",
+"image":"images/liquid.png",
+"User":"images/people/liquid1.png",
+"Description":"Allows you to create, control, and transform into liquid at will",
+"wiki":"https://onepiece.fandom.com/wiki/Toro_Toro_no_Mi",
+"Use":"Honey Queen"
+},
+{
+"extID":5,
+"Num":"3",
+"Name":"Hard Hard Fruit",
+"Japanese_Name":"Kachi Kachi no mi",
+"Type":"Paramecia",
+"image":"images/hard.png",
+"User":"images/people/hard1.png",
+"Description":"Allows you to make your body hard",
+"wiki":"https://onepiece.fandom.com/wiki/Kachi_Kachi_no_Mi",
+"Use":"Bear King"
+},
+{
+"extID":6,
+"Num":"3",
 "Name":"Plume Plume Fruit",
 "Japanese_Name":"Moku Moku no mi",
 "Type":"Logia",
 "image":"images/plume.png",
+"User":"images/people/plume1.png",
 "Description":"Allows you to create, control, and transform into smoke at will",
-"wiki":"https://onepiece.fandom.com/wiki/Moku_Moku_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Moku_Moku_no_Mi",
+"Use":"Smoker"
 },
 {
-"extID":4,
+"extID":7,
+"Num":"4",
 "Name":"Smooth Smooth Fruit",
 "Japanese_Name":"Sube Sube no mi",
 "Type":"Paramecia",
 "image":"images/smooth.png",
+"User":"images/people/smooth1.png",
 "Description":"Makes your body smooth and slippery, which in turn makes most attacks and objects slide off your body",
-"wiki":"https://onepiece.fandom.com/wiki/Sube_Sube_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Sube_Sube_no_Mi",
+"Use":"Alvida"
 },
 {
-"extID":5,
+"extID":8,
+"Num":"4",
+"Name":"Whisper Whipser Fruit",
+"Japanese_Name":"Hiso Hiso no mi",
+"Type":"Paramecia",
+"image":"images/whisper.png",
+"User":"images/people/whisper1.png",
+"Description":"Allows you to talk to animals",
+"wiki":"https://onepiece.fandom.com/wiki/Hiso_Hiso_no_Mi",
+"Use":"Apis"
+},
+{
+"extID":9,
+"Num":"5",
+"Name":"Sickle Sickle Fruit",
+"Japanese_Name":"Kama Kama no mi",
+"Type":"Paramecia",
+"image":"images/sickle.png",
+"User":"images/people/sickle1.png",
+"Description":"Allows you to slice the air",
+"wiki":"https://onepiece.fandom.com/wiki/Kama_Kama_no_Mi",
+"Use":"Eric"
+},
+{
+"extID":10,
+"Num":"5",
 "Name":"Kilo Kilo Fruit",
 "Japanese_Name":"Kilo Kilo no mi",
 "Type":"Paramecia",
 "image":"images/kilo.png",
+"User":"images/people/kilo1.png",
 "Description":"Allows you to change your mass from 1kg to 10,000 kg",
-"wiki":"https://onepiece.fandom.com/wiki/Kiro_Kiro_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Kiro_Kiro_no_Mi",
+"Use":"Ms Valentine (Mikita)"
 },
 {
-"extID":6,
+"extID":11,
+"Num":"6",
 "Name":"Bomb Bomb Fruit",
 "Japanese_Name":"Bomu Bomu no mi",
 "Type":"Paramecia",
 "image":"images/bomb.png",
+"User":"images/people/bomb1.png",
 "Description":"Allows you to make any part of your body explode",
-"wiki":"https://onepiece.fandom.com/wiki/Bomu_Bomu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Bomu_Bomu_no_Mi",
+"Use":"Mr 5 (Gem)"
 },
 {
-"extID":7,
+"extID":12,
+"Num":"7",
 "Name":"Flower Flower Fruit",
 "Japanese_Name":"Hana Hana no mi",
 "Type":"Paramecia",
 "image":"images/flower.png",
+"User":"images/people/flower1.png",
 "Description":"Allows you to sprout multiple body parts on almost any surface, including your own body, and then manipulate said body parts remotely, as if they were an extension of your own original limbs.",
-"wiki":"https://onepiece.fandom.com/wiki/Hana_Hana_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Hana_Hana_no_Mi",
+"Use":"Nico Robin"
 },
 {
-"extID":8,
+"extID":13,
+"Num":"8",
 "Name":"Wax Wax Fruit",
 "Japanese_Name":"Doru Doru no mi",
 "Type":"Paramecia",
 "image":"images/wax.png",
+"User":"images/people/wax1.png",
 "Description":"Allows you to create and control large amounts of wax with the capability to form solid objects",
-"wiki":"https://onepiece.fandom.com/wiki/Doru_Doru_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Doru_Doru_no_Mi",
+"Use":"Mr 3 (Galdino)"
 },
 {
-"extID":9,
+"extID":14,
+"Num":"9",
 "Name":"Sand Sand Fruit",
 "Japanese_Name":"Suna Suna no mi",
 "Type":"Logia",
 "image":"images/sand.png",
+"User":"images/people/sand1.png",
 "Description":"Allows you to create, control, and transform into sand at will",
-"wiki":"https://onepiece.fandom.com/wiki/Suna_Suna_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Suna_Suna_no_Mi",
+"Use":"Crocodile"
 },
 {
-"extID":10,
+"extID":15,
+"Num":"10",
 "Name":"Munch Munch Fruit",
 "Japanese_Name":"Baku Baku no mi",
 "Type":"Paramecia",
 "image":"images/munch.png",
+"User":"images/people/munch1.png",
 "Description":"Allows you to eat anything and gain the properties of whatever you eat",
-"wiki":"https://onepiece.fandom.com/wiki/Baku_Baku_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Baku_Baku_no_Mi",
+"Use":"Wapol"
 },
 {
-"extID":11,
+"extID":16,
+"Num":"11",
 "Name":"Ox Ox Fruit - Model: Bison",
 "Japanese_Name":"Ushi Ushi no mi - Model: Bison",
 "Type":"Zoan",
 "image":"images/ox.png",
+"User":"images/people/ox1.png",
 "Description":"Allows you to transform into a Bison ",
-"wiki":"https://onepiece.fandom.com/wiki/Ushi_Ushi_no_Mi,_Model:_Bison"
+"wiki":"https://onepiece.fandom.com/wiki/Ushi_Ushi_no_Mi,_Model:_Bison",
+"Use":"Dalton"
 },
 {
-"extID":12,
+"extID":17,
+"Num":"12",
 "Name":"Human Human Fruit",
 "Japanese_Name":"Hito Hito no mi",
 "Type":"Zoan",
 "image":"images/human.png",
+"User":"images/people/human1.png",
 "Description":"Allows you to transform into a human",
-"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi",
+"Use":"Tony Tony Chopper"
 },
 {
-"extID":13,
+"extID":18,
+"Num":"13",
 "Name":"Clone Clone Fruit",
 "Japanese_Name":"Mane Mane no mi",
 "Type":"Paramecia",
 "image":"images/clone.png",
+"User":"images/people/clone1.png",
 "Description":"Allows you to turn yourself into a physical double of anyone you touch",
-"wiki":"https://onepiece.fandom.com/wiki/Mane_Mane_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Mane_Mane_no_Mi",
+"Use":"Kurozumi Higurashi -> Mr 2 (Bon Clay)"
 },
 {
-"extID":14,
+"extID":19,
+"Num":"14",
 "Name":"Flame Flame Fruit",
 "Japanese_Name":"Mera Mera no mi ",
 "Type":"Logia",
 "image":"images/flame.png",
+"User":"images/people/flame1.png",
 "Description":"Allows you to create, control, and transform into fire at will",
-"wiki":"https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi",
+"Use":"Portgas D. Ace -> Sabo"
 },
 {
-"extID":15,
+"extID":20,
+"Num":"15",
 "Name":"Dice Dice Fruit",
 "Japanese_Name":"Supa Supa no mi",
 "Type":"Paramecia",
 "image":"images/dice.png",
+"User":"images/people/dice1.png",
 "Description":"Allows you to turn any part of your body into blades",
-"wiki":"https://onepiece.fandom.com/wiki/Supa_Supa_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Supa_Supa_no_Mi",
+"Use":"Mr 1 (Daz Bonez)"
 },
 {
-"extID":16,
+"extID":21,
+"Num":"16",
 "Name":"Bird Bird Fruit - Model: Falcon",
 "Japanese_Name":"Tori Tori no mi - Model: Falcon",
 "Type":"Zoan",
 "image":"images/falcon.png",
+"User":"images/people/falcon1.png",
 "Description":"Allows you to transform into a Falcon",
-"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Falcon"
+"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Falcon",
+"Use":"Pell"
 },
 {
-"extID":17,
+"extID":22,
+"Num":"17",
 "Name":"Dog Dog Fruit - Model: Dachshund",
 "Japanese_Name":"Inu Inu no mi - Model: Dachshund",
 "Type":"Zoan",
 "image":"images/dachshund.png",
+"User":"images/people/dachshund1.png",
 "Description":"Allows you to transform into a Dachshund",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Dachshund"
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Dachshund",
+"Use":"a gun"
 },
 {
-"extID":18,
+"extID":23,
+"Num":"18",
 "Name":"Mole Mole Fruit",
 "Japanese_Name":"Mogu Mogu no mi",
 "Type":"Zoan",
 "image":"images/mole.png",
+"User":"images/people/mole1.png",
 "Description":"Allows you to transform into a Mole",
-"wiki":"https://onepiece.fandom.com/wiki/Mogu_Mogu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Mogu_Mogu_no_Mi",
+"Use":"Ms Merry Christmas (Drophy)"
 },
 {
-"extID":19,
+"extID":24,
+"Num":"19",
 "Name":"Spike Spike Fruit",
 "Japanese_Name":"Toge Toge no mi",
 "Type":"Paramecia",
 "image":"images/spike.png",
+"User":"images/people/spike1.png",
 "Description":"Allows you to grow spikes on any part of your body, and turn any body part entirely into a spike",
-"wiki":"https://onepiece.fandom.com/wiki/Toge_Toge_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Toge_Toge_no_Mi",
+"Use":"Ms Doublefinger (Zala)"
 },
 {
-"extID":20,
+"extID":25,
+"Num":"20",
 "Name":"Dog Dog Fruit - Model: Jackal",
 "Japanese_Name":"Inu Inu no mi - Model: Jackal",
 "Type":"Zoan",
 "image":"images/jackal.png",
+"User":"images/people/jackal1.png",
 "Description":"Allows you to transform into a Jackal",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Jackal"
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Jackal",
+"Use":"Chaka"
 },
 {
-"extID":21,
+"extID":26,
+"Num":"21",
 "Name":"Bind Bind Fruit",
 "Japanese_Name":"Ori Ori no mi",
 "Type":"Paramecia",
 "image":"images/bind.png",
+"User":"images/people/bind1.png",
 "Description":"Allows you to bind their foes in iron shackles created by your body",
-"wiki":"https://onepiece.fandom.com/wiki/Ori_Ori_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Ori_Ori_no_Mi",
+"Use":"Hina"
 },
 {
-"extID":22,
+"extID":27,
+"Num":"6",
+"Name":"Sleep Sleep Fruit",
+"Japanese_Name":"Nemu Nemu no mi",
+"Type":"Paramecia",
+"image":"images/sleep.png",
+"User":"images/people/sleep1.png",
+"Description":"Allows ypu to put anyone to sleep",
+"wiki":"https://onepiece.fandom.com/wiki/Nemu_Nemu_no_Mi",
+"Use":"Noko"
+},
+{
+"extID":28,
+"Num":"7",
+"Name":"Candy Candy Fruit",
+"Japanese_Name":"Ame Ame no mi",
+"Type":"Logia",
+"image":"images/candy.png",
+"User":"images/people/candy1.png",
+"Description":"Allows you to create, control, and transform into candy syrup at will",
+"wiki":"https://onepiece.fandom.com/wiki/Ame_Ame_no_Mi",
+"Use":"Gasparde"
+},
+{
+"extID":29,
+"Num":"22",
 "Name":"Spring Spring Fruit",
 "Japanese_Name":"Bane Bane no mi",
 "Type":"Paramecia",
 "image":"images/spring.png",
+"User":"images/people/spring1.png",
 "Description":"Allows you to turn your limbs into powerful springs",
-"wiki":"https://onepiece.fandom.com/wiki/Bane_Bane_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Bane_Bane_no_Mi",
+"Use":"Bellamy"
 },
 {
-"extID":23,
+"extID":30,
+"Num":"23",
 "Name":"String String Fruit",
 "Japanese_Name":"Ito Ito no mi",
 "Type":"Paramecia",
 "image":"images/string.png",
+"User":"images/people/string1.png",
 "Description":"Allows you to create and manipulate strings",
-"wiki":"https://onepiece.fandom.com/wiki/Ito_Ito_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Ito_Ito_no_Mi",
+"Use":"Donquixote Doflamingo (Joker)"
 },
 {
-"extID":24,
+"extID":31,
+"Num":"24",
 "Name":"Horse Horse Fruit",
 "Japanese_Name":"Uma Uma no mi",
 "Type":"Zoan",
 "image":"images/horse.png",
+"User":"images/people/horse1.png",
 "Description":"Allows you to transform into a Horse",
-"wiki":"https://onepiece.fandom.com/wiki/Uma_Uma_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Uma_Uma_no_Mi",
+"Use":"Pierre"
 },
 {
-"extID":25,
+"extID":32,
+"Num":"25",
 "Name":"Rumble Rumble Fruit",
 "Japanese_Name":"Goro Goro no mi",
 "Type":"Logia",
 "image":"images/rumble.png",
+"User":"images/people/rumble1.png",
 "Description":"Allows you to create, control, and transform into lightning at will",
-"wiki":"https://onepiece.fandom.com/wiki/Goro_Goro_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Goro_Goro_no_Mi",
+"Use":"Eneru/Enel"
 },
 {
-"extID":26,
+"extID":33,
+"Num":"26",
 "Name":"Slow Slow Fruit",
 "Japanese_Name":"Noro Noro no mi",
 "Type":"Paramecia",
 "image":"images/slow.png",
+"User":"images/people/slow1.png",
 "Description":"Allows you to emit beams which temporarily slow down your target",
-"wiki":"https://onepiece.fandom.com/wiki/Noro_Noro_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Noro_Noro_no_Mi",
+"Use":"Foxy"
 },
 {
-"extID":27,
+"extID":34,
+"Num":"8",
+"Name":"Cat Cat Fruit, Model: Cheetah",
+"Japanese_Name":"Neko Neko no mi, Model: Cheetah",
+"Type":"Zoan",
+"image":"images/cheetah.png",
+"User":"images/people/cheetah1.png",
+"Description":"Allows you to turn into a cheetah",
+"wiki":"https://onepiece.fandom.com/wiki/Chiqicheetah",
+"Use":"Chiqicheetah"
+},
+{
+"extID":35,
+"Num":"27",
 "Name":"Ice Ice Fruit",
 "Japanese_Name":"Hie Hie no mi",
 "Type":"Logia",
 "image":"images/ice.png",
+"User":"images/people/ice1.png",
 "Description":"Allows you to create, control, and transform into ice at will",
-"wiki":"https://onepiece.fandom.com/wiki/Hie_Hie_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Hie_Hie_no_Mi",
+"Use":"Kuzan (Aokiji)"
 },
 {
-"extID":28,
+"extID":36,
+"Num":"28",
 "Name":"Door Door Fruit",
 "Japanese_Name":"Doa Doa no mi",
 "Type":"Paramecia",
 "image":"images/door.png",
+"User":"images/people/door1.png",
 "Description":"Allows you to create doors through anything you touch",
-"wiki":"https://onepiece.fandom.com/wiki/Doa_Doa_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Doa_Doa_no_Mi",
+"Use":"Blueno"
 },
 {
-"extID":29,
+"extID":37,
+"Num":"29",
 "Name":"Cat Cat Fruit - Model: Leopard",
 "Japanese_Name":"Neko Neko no mi - Model: Leopard",
 "Type":"Zoan",
 "image":"images/leopard.png",
+"User":"images/people/leopard1.png",
 "Description":"Allows you to transform into a Leopard",
-"wiki":"https://onepiece.fandom.com/wiki/Neko_Neko_no_Mi,_Model:_Leopard"
+"wiki":"https://onepiece.fandom.com/wiki/Neko_Neko_no_Mi,_Model:_Leopard",
+"Use":"Rob Lucci"
 },
 {
-"extID":30,
+"extID":38,
+"Num":"30",
 "Name":"Eleph Eleph Fruit",
 "Japanese_Name":"Zou Zou no mi",
 "Type":"Zoan",
 "image":"images/eleph.png",
+"User":"images/people/eleph1.png",
 "Description":"Allows you to transform into an Elephant",
-"wiki":"https://onepiece.fandom.com/wiki/Zou_Zou_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Zou_Zou_no_Mi",
+"Use":"a sword"
 },
 {
-"extID":31,
+"extID":39,
+"Num":"31",
 "Name":"Dog Dog Fruit - Model: Wolf",
 "Japanese_Name":"Inu Inu no mi - Model: Wolf",
 "Type":"Zoan",
 "image":"images/wolf.png",
+"User":"images/people/wolf1.png",
 "Description":"Allows you to transform into a Wolf",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Wolf"
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Wolf",
+"Use":"Jabra"
 },
 {
-"extID":32,
+"extID":40,
+"Num":"32",
 "Name":"Ox Ox Fruit - Model: Giraffe",
 "Japanese_Name":"Ushi Ushi no mi - Model: Giraffe",
 "Type":"Zoan",
 "image":"images/giraffe.png",
+"User":"images/people/giraffe1.png",
 "Description":"Allows you to transform into a Giraffe",
-"wiki":"https://onepiece.fandom.com/wiki/Ushi_Ushi_no_Mi,_Model:_Giraffe"
+"wiki":"https://onepiece.fandom.com/wiki/Ushi_Ushi_no_Mi,_Model:_Giraffe",
+"Use":"Kaku"
 },
 {
-"extID":33,
+"extID":41,
+"Num":"33",
 "Name":"Bubble Bubble Fruit",
 "Japanese_Name":"Awa Awa no mi",
 "Type":"Paramecia",
 "image":"images/bubble.png",
+"User":"images/people/bubble1.png",
 "Description":"Allows to to create and control soap bubbles",
-"wiki":"https://onepiece.fandom.com/wiki/Awa_Awa_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Awa_Awa_no_Mi",
+"Use":"Kalifa"
 },
 {
-"extID":34,
+"extID":42,
+"Num":"34",
 "Name":"Berry Berry Fruit",
 "Japanese_Name":"Beri Beri no mi",
 "Type":"Paramecia",
 "image":"images/berry.png",
+"User":"images/people/berry1.png",
 "Description":"Allows you to transform your body parts into a multitude of berry-like balls",
-"wiki":"https://onepiece.fandom.com/wiki/Beri_Beri_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Beri_Beri_no_Mi",
+"Use":"Very Good"
 },
 {
-"extID":35,
+"extID":43,
+"Num":"35",
 "Name":"Rust Rust Fruit",
 "Japanese_Name":"Sabi Sabi no mi",
 "Type":"Paramecia",
 "image":"images/rust.png",
+"User":"images/people/rust1.png",
 "Description":"Allows you to cause metallic items to rust and break",
-"wiki":"https://onepiece.fandom.com/wiki/Sabi_Sabi_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Sabi_Sabi_no_Mi",
+"Use":"Shu"
 },
 {
-"extID":36,
+"extID":44,
+"Num":"36",
 "Name":"Wheel Wheel Fruit",
 "Japanese_Name":"Shari Shari no mi",
 "Type":"Paramecia",
 "image":"images/wheel.png",
+"User":"images/people/wheel1.png",
 "Description":"Allows you to transform your arms, feet, and body into wheels",
-"wiki":"https://onepiece.fandom.com/wiki/Shari_Shari_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Shari_Shari_no_Mi",
+"Use":"Sharinguru"
 },
 {
-"extID":37,
+"extID":45,
+"Num":"37",
 "Name":"Dark Dark Fruit",
 "Japanese_Name":"Yami Yami no mi",
 "Type":"Logia",
 "image":"images/dark.png",
+"User":"images/people/dark1.png",
 "Description":"Allows you to create, control, and transform into darkness at will",
-"wiki":"https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi",
+"Use":"Marshall D. Teach (Blackbeard)"
 },
 {
-"extID":38,
+"extID":46,
+"Num":"9",
+"Name":"Shroom Shroom Fruit",
+"Japanese_Name":"Noko Noko no mi",
+"Type":"Paramecia",
+"image":"images/shroom.png",
+"User":"images/people/shroom1.png",
+"Description":"Allows you to create and control poisonous mushroom spores",
+"wiki":"https://onepiece.fandom.com/wiki/Noko_Noko_no_Mi",
+"Use":"Musshuru"
+},
+{
+"extID":47,
+"Num":"38",
 "Name":"Revive Revive Fruit",
 "Japanese_Name":"Yomi Yomi no mi",
 "Type":"Paramecia",
 "image":"images/revive.png",
+"User":"images/people/revive1.png",
 "Description":"Allows the user to be resurrected after their first death",
-"wiki":"https://onepiece.fandom.com/wiki/Yomi_Yomi_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Yomi_Yomi_no_Mi",
+"Use":"Brook"
 },
 {
-"extID":39,
+"extID":48,
+"Num":"39",
 "Name":"Hollow Hollow Fruit",
 "Japanese_Name":"Horo Horo no mi",
 "Type":"Paramecia",
 "image":"images/hollow.png",
+"User":"images/people/hollow1.png",
 "Description":"Allows you to conjure ghosts and turn into a ghost",
-"wiki":"https://onepiece.fandom.com/wiki/Horo_Horo_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Horo_Horo_no_Mi",
+"Use":"Perona"
 },
 {
-"extID":40,
+"extID":49,
+"Num":"40",
 "Name":"Shadow Shadow Fruit",
 "Japanese_Name":"Kage Kage no mi",
 "Type":"Paramecia",
 "image":"images/shadow.png",
+"User":"images/people/shadow1.png",
 "Description":"Allows you to control shadows",
-"wiki":"https://onepiece.fandom.com/wiki/Kage_Kage_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Kage_Kage_no_Mi",
+"Use":"Gecko Moria"
 },
 {
-"extID":41,
+"extID":50,
+"Num":"41",
 "Name":"Clear Clear Fruit",
 "Japanese_Name":"Suke Suke no mi",
 "Type":"Paramecia",
 "image":"images/clear.png",
+"User":"images/people/clear1.png",
 "Description":"Allows you to turn invisible",
-"wiki":"https://onepiece.fandom.com/wiki/Suke_Suke_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Suke_Suke_no_Mi",
+"Use":"Absalom -> Shiryu"
 },
 {
-"extID":42,
+"extID":51,
+"Num":"42",
 "Name":"Paw Paw Fruit",
 "Japanese_Name":"Nikyu Nikyu no mi",
 "Type":"Paramecia",
 "image":"images/paw.png",
+"User":"images/people/paw1.png",
 "Description":"Allows you to repel anything via paws permanently manifested on your palms",
-"wiki":"https://onepiece.fandom.com/wiki/Nikyu_Nikyu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Nikyu_Nikyu_no_Mi",
+"Use":"Bartholomew Kuma"
 },
 {
-"extID":43,
+"extID":52,
+"Num":"10",
+"Name":"Bird Bird Fruit, Model: Eagle",
+"Japanese_Name":"Tori Tori no mi, Model: Eagle",
+"Type":"Zoan",
+"image":"images/eagle.png",
+"User":"images/people/eagle1.png",
+"Description":"Allows you to transform into an eagle",
+"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Eagle",
+"Use":"Wazu"
+},
+{
+"extID":53,
+"Num":"43",
 "Name":"Magnet Magnet Fruit",
 "Japanese_Name":"Jiki Jiki no mi",
 "Type":"Paramecia",
 "image":"images/magnet.png",
+"User":"images/people/magnet1.png",
 "Description":"Allows you to create magnetic forces and use them to control metal",
-"wiki":"https://onepiece.fandom.com/wiki/Jiki_Jiki_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Jiki_Jiki_no_Mi",
+"Use":"Eustass Kid"
 },
 {
-"extID":44,
+"extID":54,
+"Num":"44",
 "Name":"Op Op Fruit",
 "Japanese_Name":"Ope Ope no mi",
 "Type":"Paramecia",
 "image":"images/op.png",
+"User":"images/people/op1.png",
 "Description":"Allows you to manipulate anything within a specific area",
-"wiki":"https://onepiece.fandom.com/wiki/Ope_Ope_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Ope_Ope_no_Mi",
+"Use":"Trafalgar D. Water Law"
 },
 {
-"extID":45,
+"extID":55,
+"Num":"45",
 "Name":"Glint Glint Fruit",
 "Japanese_Name":"Pika Pika no mi",
 "Type":"Logia",
 "image":"images/glint.png",
+"User":"images/people/glint1.png",
 "Description":"Allows you to create, control, and transform into light at will",
-"wiki":"https://onepiece.fandom.com/wiki/Pika_Pika_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Pika_Pika_no_Mi",
+"Use":"Borsalino (Kizaru)"
 },
 {
-"extID":46,
+"extID":56,
+"Num":"46",
 "Name":"Age Age Fruit",
 "Japanese_Name":"Toshi Toshi no mi",
 "Type":"Paramecia",
 "image":"images/age.png",
+"User":"images/people/age1.png",
 "Description":"Allows you to freely manipulate the age of yourself and others",
-"wiki":"https://onepiece.fandom.com/wiki/Toshi_Toshi_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Toshi_Toshi_no_Mi",
+"Use":"Jewelry Bonnie"
 },
 {
-"extID":47,
+"extID":57,
+"Num":"47",
 "Name":"Castle Castle Fruit",
 "Japanese_Name":"Shiro Shiro no mi",
 "Type":"Paramecia",
 "image":"images/castle.png",
+"User":"images/people/castle1.png",
 "Description":"Allows you to become a living fortress",
-"wiki":"https://onepiece.fandom.com/wiki/Shiro_Shiro_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Shiro_Shiro_no_Mi",
+"Use":"Capone Bege"
 },
 {
-"extID":48,
+"extID":58,
+"Num":"48",
 "Name":"Muscle Muscle Fruit",
 "Japanese_Name":"Suji Suji no mi",
 "Type":"Paramecia",
 "image":"images/muscle.png",
+"User":"images/people/muscle1.png",
 "Description":"Allows you to change the size and strength of your muscles",
-"wiki":"https://shipoffools.fandom.com/wiki/Suji_Suji_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Urouge",
+"Use":"Urouge"
 },
 {
-"extID":49,
+"extID":59,
+"Num":"49",
 "Name":"Dragon Dragon Fruit - Model: Allosaurus",
 "Japanese_Name":"Ryu Ryu no mi",
 "Type":"Zoan",
 "image":"images/allosaurus.png",
+"User":"images/people/allosaurus1.png",
 "Description":"Allows you to transform into an Allosaurus",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Allosaurus"
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Allosaurus",
+"Use":"X Drake"
 },
 {
-"extID":50,
+"extID":60,
+"Num":"50",
 "Name":"Straw Straw Fruit",
 "Japanese_Name":"Wara Wara no mi",
 "Type":"Paramecia",
 "image":"images/straw.png",
+"User":"images/people/straw1.png",
 "Description":"Allows you to create and manipulate straw at will, with the straw having damage-redirecting properties.",
-"wiki":"https://onepiece.fandom.com/wiki/Wara_Wara_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Wara_Wara_no_Mi",
+"Use":"Basil Hawkins"
 },
 {
-"extID":51,
+"extID":61,
+"Num":"51",
 "Name":"Tone Tone Fruit",
 "Japanese_Name":"Oto Oto no mi",
 "Type":"Paramecia",
 "image":"images/tone.png",
+"User":"images/people/tone1.png",
 "Description":"Allows you to turn parts of your body into musical instruments and affect the world around you with the music you play",
-"wiki":"https://onepiece.fandom.com/wiki/Oto_Oto_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Oto_Oto_no_Mi",
+"Use":"Apoo"
 },
 {
-"extID":52,
+"extID":62,
+"Num":"52",
 "Name":"Love Love Fruit",
 "Japanese_Name":"Mero Mero no mi",
 "Type":"Paramecia",
 "image":"images/love.png",
+"User":"images/people/love1.png",
 "Description":"Allows you to use a range of attacks which use emotions of love, lust or adoration to transform opponents into stone",
-"wiki":"https://onepiece.fandom.com/wiki/Mero_Mero_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Mero_Mero_no_Mi",
+"Use":"Boa Hancock"
 },
 {
-"extID":53,
+"extID":63,
+"Num":"53",
 "Name":"Snake Snake Fruit - Model: Anaconda",
 "Japanese_Name":"Hebi Hebi no mi - Model: Anaconda",
 "Type":"Zoan",
 "image":"images/anaconda.png",
+"User":"images/people/anaconda1.png",
 "Description":"Allows you to transform into an Anaconda",
-"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_Anaconda"
+"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_Anaconda",
+"Use":"Boa Sandersonia"
 },
 {
-"extID":54,
+"extID":64,
+"Num":"54",
 "Name":"Snake Snake Fruit - Model: King Cobra",
 "Japanese_Name":"Hebi Hebi no mi - Model: King Cobra",
 "Type":"Zoan",
 "image":"images/cobra.png",
+"User":"images/people/cobra1.png",
 "Description":"Allows you to transform into a King Cobra",
-"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_King_Cobra"
+"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_King_Cobra",
+"Use":"Boa Marigold"
 },
 {
-"extID":55,
+"extID":65,
+"Num":"55",
 "Name":"Venom Venom Fruit",
 "Japanese_Name":"Doku Doku no mi",
 "Type":"Paramecia",
 "image":"images/venom.png",
+"User":"images/people/venom1.png",
 "Description":"Allows you to create and be immune to poison",
-"wiki":"https://onepiece.fandom.com/wiki/Doku_Doku_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Doku_Doku_no_Mi",
+"Use":"Magellan"
 },
 {
-"extID":56,
+"extID":66,
+"Num":"11",
+"Name":"Net Net Fruit",
+"Japanese_Name":"Ami Ami no mi",
+"Type":"Paramecia",
+"image":"images/net.png",
+"User":"images/people/net1.png",
+"Description":"Allows you to create nets from anything that you ingest",
+"wiki":"https://onepiece.fandom.com/wiki/Ami_Ami_no_Mi",
+"Use":"Largo"
+},
+{
+"extID":67,
+"Num":"56",
 "Name":"Float Float Fruit",
 "Japanese_Name":"Fuwa Fuwa no mi",
 "Type":"Paramecia",
 "image":"images/float.png",
-"Description":"Allows you to cause yourself, others, and objects to float",
-"wiki":"https://onepiece.fandom.com/wiki/Fuwa_Fuwa_no_Mi"
+"User":"images/people/float1.png",
+"Description":"Allows you to manipulate the gravity of yourself and non-living things however you please",
+"wiki":"https://onepiece.fandom.com/wiki/Fuwa_Fuwa_no_Mi",
+"Use":"Shiki"
 },
 {
-"extID":57,
+"extID":68,
+"Num":"57",
 "Name":"Horm Horm Fruit",
 "Japanese_Name":"Horu Horu no mi",
 "Type":"Paramecia",
 "image":"images/horm.png",
+"User":"images/people/horm1.png",
 "Description":"Allows you to create and control hormones",
-"wiki":"https://onepiece.fandom.com/wiki/Horu_Horu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Horu_Horu_no_Mi",
+"Use":"Emporio Ivankov"
 },
 {
-"extID":58,
+"extID":69,
+"Num":"58",
 "Name":"Snip Snip Fruit",
 "Japanese_Name":"Choki Choki no mi",
 "Type":"Paramecia",
 "image":"images/snip.png",
+"User":"images/people/snip1.png",
 "Description":"Allows you to cut and mould anything as if it were paper",
-"wiki":"https://onepiece.fandom.com/wiki/Choki_Choki_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Choki_Choki_no_Mi",
+"Use":"Inazuma"
 },
 {
-"extID":59,
+"extID":70,
+"Num":"59",
 "Name":"Wing Wing Fruit",
 "Japanese_Name":"Basa Basa no mi",
 "Type":"Paramecia",
 "image":"images/wing.png",
+"User":"images/people/wing1.png",
 "Description":"Allows you to sprout wings ",
-"wiki":"https://onepiecefanon.fandom.com/wiki/Basa_Basa_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Laffitte",
+"Use":"Laffitte"
 },
 {
-"extID":60,
+"extID":71,
+"Num":"60",
 "Name":"Tremor Tremor Fruit",
 "Japanese_Name":"Gura Gura no mi",
 "Type":"Paramecia",
 "image":"images/tremor.png",
+"User":"images/people/tremor1.png",
 "Description":"Allows you to create violent earthquakes",
-"wiki":"https://onepiece.fandom.com/wiki/Gura_Gura_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Gura_Gura_no_Mi",
+"Use":"Edward Newgate (Whitebeard) -> Marshall D. Teach (Blackbeard)"
 },
 {
-"extID":61,
+"extID":72,
+"Num":"61",
 "Name":"Dog Dog Fruit - Model: Dalmatian",
 "Japanese_Name":"Inu Inu no mi - Model: Dalmatian",
 "Type":"Zoan",
 "image":"images/dalmatian.png",
+"User":"images/people/dalmatian1.png",
 "Description":"Allows you to transform into a Dalmatian",
-"wiki":"https://onepiece.fandom.com/wiki/Dalmatian"
+"wiki":"https://onepiece.fandom.com/wiki/Dalmatian",
+"Use":"Dalmatian"
 },
 {
-"extID":62,
+"extID":73,
+"Num":"62",
 "Name":"Twinkle Twinkle Fruit",
 "Japanese_Name":"Kira Kira no mi",
 "Type":"Paramecia",
 "image":"images/twinkle.png",
+"User":"images/people/twinkle1.png",
 "Description":"Allows you to turn any part of your body into indestructable diamond at will",
-"wiki":"https://onepiece.fandom.com/wiki/Kira_Kira_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Kira_Kira_no_Mi",
+"Use":"Jozu"
 },
 {
-"extID":63,
+"extID":74,
+"Num":"63",
 "Name":"Bug Bug Fruit - Model: Caterpillar",
 "Japanese_Name":"Mushi Mushi no mi - Model: Caterpillar",
 "Type":"Zoan",
 "image":"images/caterpillar.png",
+"User":"images/people/caterpillar1.png",
 "Description":"Allows you to transform into a Caterpillar",
-"wiki":"https://onepiece.fandom.com/wiki/Epoida"
+"wiki":"https://onepiece.fandom.com/wiki/Epoida",
+"Use":"Epoida"
 },
 {
-"extID":64,
+"extID":75,
+"Num":"64",
 "Name":"Bird Bird Fruit - Model: Phoenix",
 "Japanese_Name":"Tori Tori no mi - Model: Phoenix",
 "Type":"Zoan",
 "image":"images/phoenix.png",
+"User":"images/people/phoenix1.png",
 "Description":"Allows you to transform any part of your your body into Phoenix flames",
-"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Phoenix"
+"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Phoenix",
+"Use":"Marco"
 },
 {
-"extID":65,
+"extID":76,
+"Num":"65",
 "Name":"Pocket Pocket Fruit",
 "Japanese_Name":"Poke Poke no mi",
 "Type":"Paramecia",
 "image":"images/pocket.png",
+"User":"images/people/pocket1.png",
 "Description":"Allows you to create pockets on your body",
-"wiki":"https://onepiece.fandom.com/wiki/Poke_Poke_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Poke_Poke_no_Mi",
+"Use":"Blamenco"
 },
 {
-"extID":66,
+"extID":77,
+"Num":"66",
 "Name":"Mag Mag Fruit",
 "Japanese_Name":"Magu Magu no mi",
 "Type":"Logia",
 "image":"images/mag.png",
+"User":"images/people/mag1.png",
 "Description":"Allows you to create, control, and transform into magma at will",
-"wiki":"https://onepiece.fandom.com/wiki/Magu_Magu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Magu_Magu_no_Mi",
+"Use":"Sakazuki (Akainu)"
 },
 {
-"extID":67,
+"extID":78,
+"Num":"67",
 "Name":"Wash Wash Fruit",
 "Japanese_Name":"Woshu Woshu no mi",
 "Type":"Paramecia",
 "image":"images/wash.png",
+"User":"images/people/wash1.png",
 "Description":"Allows you to literally wash and hang out to dry people and objects as if they were clothes",
-"wiki":"https://onepiece.fandom.com/wiki/Woshu_Woshu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Woshu_Woshu_no_Mi",
+"Use":"Tsuru"
 },
 {
-"extID":68,
+"extID":79,
+"Num":"68",
 "Name":"Spider Spider Fruit",
 "Japanese_Name":"Kumo Kumo no mi",
 "Type":"Zoan",
 "image":"images/spider.png",
+"User":"images/people/spider1.png",
 "Description":"Allows you to transform into a Spider",
-"wiki":"https://onepiece.fandom.com/wiki/Onigumo"
+"wiki":"https://onepiece.fandom.com/wiki/Onigumo",
+"Use":"Onigumo"
 },
 {
-"extID":69,
+"extID":80,
+"Num":"69",
 "Name":"Human Human Fruit - Model: Buddha",
 "Japanese_Name":"Hito Hito no mi - Model: Buddha",
 "Type":"Zoan",
 "image":"images/buddha.png",
+"User":"images/people/buddha1.png",
 "Description":"Allows you to transform into a Buddha",
-"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Daibutsu"
+"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Daibutsu",
+"Use":"Sengoku"
 },
 {
-"extID":70,
+"extID":81,
+"Num":"70",
 "Name":"Huge Huge Fruit",
 "Japanese_Name":"Deka Deka no mi",
 "Type":"Paramecia",
 "image":"images/huge.png",
+"User":"images/people/huge1.png",
 "Description":"Allows you to grow giant",
-"wiki":"https://onepiece.fandom.com/wiki/Deka_Deka_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Deka_Deka_no_Mi",
+"Use":"Sanjuan Wolf"
 },
 {
-"extID":71,
+"extID":82,
+"Num":"12",
+"Name":"More More Fruit",
+"Japanese_Name":"Moa Moa no mi",
+"Type":"Paramecia",
+"image":"images/more.png",
+"User":"images/people/more1.png",
+"Description":"Allows you to increase the size and speed of objects along with your own speed",
+"wiki":"https://onepiece.fandom.com/wiki/Moa_Moa_no_Mi",
+"Use":"Byrnndi World"
+},
+{
+"extID":83,
+"Num":"13",
+"Name":"Cube Cube Fruit",
+"Japanese_Name":"Kyubu Kyubu no mi",
+"Type":"Paramecia",
+"image":"images/cube.png",
+"User":"images/people/cube1.png",
+"Description":"Allows you to turn anything or anyone into a cube with the ability to control the inanimate cubes freely",
+"wiki":"https://onepiece.fandom.com/wiki/Kyubu_Kyubu_no_Mi",
+"Use":"Gairam"
+},
+{
+"extID":84,
+"Num":"71",
 "Name":"Swamp Swamp Fruit",
 "Japanese_Name":"Numa Numa no mi",
 "Type":"Logia",
 "image":"images/swamp.png",
+"User":"images/people/swamp1.png",
 "Description":"Allows you to create, control, and transform into mud at will",
-"wiki":"https://onepiece.fandom.com/wiki/Numa_Numa_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Numa_Numa_no_Mi",
+"Use":"Caribou"
 },
 {
-"extID":72,
+"extID":85,
+"Num":"72",
 "Name":"Mark Mark Fruit",
 "Japanese_Name":"Mato Mato no mi",
 "Type":"Paramecia",
 "image":"images/mark.png",
+"User":"images/people/mark1.png",
 "Description":"Allows you to mark someone by touching them and throw something at them with 100% accuracy",
-"wiki":"https://onepiece.fandom.com/wiki/Mato_Mato_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Mato_Mato_no_Mi",
+"Use":"Vander Decken IX"
 },
 {
-"extID":73,
+"extID":86,
+"Num":"73",
 "Name":"Soul Soul Fruit",
 "Japanese_Name":"Soru Soru no mi",
 "Type":"Paramecia",
 "image":"images/soul.png",
+"User":"images/people/soul1.png",
 "Description":"Allows you to manipulate the lifeforce of yourself and others and embew it into inanimate objects",
-"wiki":"https://onepiece.fandom.com/wiki/Soru_Soru_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Soru_Soru_no_Mi",
+"Use":"Mother Carmel -> Charlotte Lin Lin (Big Mum)"
 },
 {
-"extID":74,
+"extID":87,
+"Num":"74",
 "Name":"Turtle Turtle Fruit",
 "Japanese_Name":"Kame Kame no mi",
 "Type":"Zoan",
 "image":"images/turtle.png",
+"User":"images/people/turtle1.png",
 "Description":"Allows you to transform into a Turtle",
-"wiki":"https://onepiece.fandom.com/wiki/Kame_Kame_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Kame_Kame_no_Mi",
+"Use":"Pekoms"
 },
 {
-"extID":75,
+"extID":88,
+"Num":"75",
 "Name":"Egg Egg Fruit",
 "Japanese_Name":"Tama Tama no mi",
 "Type":"Zoan",
 "image":"images/egg.png",
+"User":"images/people/egg1.png",
 "Description":"Turns your body composition into that of an egg, which if cracked open will cause you to regenerate into a stronger body that features more and more chicken-like features each time.",
-"wiki":"https://onepiece.fandom.com/wiki/Tama_Tama_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Tama_Tama_no_Mi",
+"Use":"Baron Tamago"
 },
 {
-"extID":76,
+"extID":89,
+"Num":"14",
+"Name":"Mini Mini Fruit",
+"Japanese_Name":"Mini Mini no mi",
+"Type":"Paramecia",
+"image":"images/mini.png",
+"User":"images/people/mini1.png",
+"Description":"Allows you to shrink",
+"wiki":"https://onepiece.fandom.com/wiki/Mini_Mini_no_Mi",
+"Use":"Lily Enstomach "
+},
+{
+"extID":90,
+"Num":"15",
+"Name":"Alpaca Alpaca Fruit",
+"Japanese_Name":"Ushi Ushi no mi, Model: Alpaca",
+"Type":"Zoan",
+"image":"images/alpaca.png",
+"User":"images/people/alpaca1.png",
+"Description":"Allows you to transform into an alpaca",
+"wiki":"https://onepiece.fandom.com/wiki/Alpacacino",
+"Use":"a bazooka"
+},
+{
+"extID":91,
+"Num":"16",
+"Name":"Grow Grow Fruit",
+"Japanese_Name":"Mosa Mosa no mi",
+"Type":"Paramecia",
+"image":"images/grow.png",
+"User":"images/people/grow1.png",
+"Description":"Allows you to grow and control any existing plants",
+"wiki":"https://onepiece.fandom.com/wiki/Mosa_Mosa_no_Mi",
+"Use":"Binz"
+},
+{
+"extID":92,
+"Num":"17",
+"Name":"Return Return Fruit",
+"Japanese_Name":"Modo Modo no mi",
+"Type":"Paramecia",
+"image":"images/return.png",
+"User":"images/people/return1.png",
+"Description":"Allows you to make anything or anyone younger",
+"wiki":"https://onepiece.fandom.com/wiki/Modo_Modo_no_Mi",
+"Use":"Ain"
+},
+{
+"extID":93,
+"Num":"76",
 "Name":"Gas Gas Fruit",
 "Japanese_Name":"Gasu Gasu no mi",
 "Type":"Logia",
 "image":"images/gas.png",
+"User":"images/people/gas1.png",
 "Description":"Allows you to create, control, and transform into gas at will",
-"wiki":"https://onepiece.fandom.com/wiki/Gasu_Gasu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Gasu_Gasu_no_Mi",
+"Use":"Caesar Clown"
 },
 {
-"extID":77,
+"extID":94,
+"Num":"77",
 "Name":"Garb Garb Fruit",
 "Japanese_Name":"Fuku Fuku no mi",
 "Type":"Paramecia",
 "image":"images/garb.png",
+"User":"images/people/garb1.png",
 "Description":"Allows you to create clothing and other apparel out of leaves or stones by visualizing them.",
-"wiki":"https://onepiece.fandom.com/wiki/Fuku_Fuku_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Fuku_Fuku_no_Mi",
+"Use":"Kin'emon"
 },
 {
-"extID":78,
+"extID":95,
+"Num":"78",
 "Name":"Sala-Sala Fruit, Model: Axolotl",
-"Japanese_Name":"Sara Sara no Mi, Model: Axolotl",
+"Japanese_Name":"Sara Sara no mi, Model: Axolotl",
 "Type":"Zoan",
 "image":"images/axolotl.png",
+"User":"images/people/axolotl1.png",
 "Description":"Allows you to transform into an axolotl",
-"wiki":"https://onepiece.fandom.com/wiki/Sara_Sara_no_Mi,_Model:_Axolotl"
+"wiki":"https://onepiece.fandom.com/wiki/Sara_Sara_no_Mi,_Model:_Axolotl",
+"Use":"some goo"
 },
 {
-"extID":79,
+"extID":96,
+"Num":"79",
 "Name":"Snow Snow Fruit",
 "Japanese_Name":"Yuki Yuki no mi",
 "Type":"Logia",
 "image":"images/snow.png",
+"User":"images/people/snow1.png",
 "Description":"Allows you to create, control, and transform into snow at will",
-"wiki":"https://onepiece.fandom.com/wiki/Yuki_Yuki_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Yuki_Yuki_no_Mi",
+"Use":"Monet"
 },
 {
-"extID":80,
+"extID":97,
+"Num":"80",
 "Name":"Arms Arms Fruit",
 "Japanese_Name":"Buki Buki no mi",
 "Type":"Paramecia",
 "image":"images/arms.png",
+"User":"images/people/arms1.png",
 "Description":"Gives you the ability to change their body parts into any weapon",
-"wiki":"https://onepiece.fandom.com/wiki/Buki_Buki_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Buki_Buki_no_Mi",
+"Use":"Baby 5"
 },
 {
-"extID":81,
+"extID":98,
+"Num":"81",
 "Name":"Spin Spin Fruit",
 "Japanese_Name":"Guru Guru no mi",
 "Type":"Paramecia",
 "image":"images/spin.png",
+"User":"images/people/spin1.png",
 "Description":"Allows you to transform any part of your body or piece of worn clothing into propellers capable of rotation at high speed",
-"wiki":"https://onepiece.fandom.com/wiki/Guru_Guru_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Guru_Guru_no_Mi",
+"Use":"Buffalo"
 },
 {
-"extID":82,
-"Name":"Stick Stick Fruit",
+"extID":99,
+"Num":"18",
+"Name":"Pet Pet Fruit",
+"Japanese_Name":"Peto Peto no mi",
+"Type":"Paramecia",
+"image":"images/pet.png",
+"User":"images/people/pet1.png",
+"Description":"Allows you to control anyonw who you can place your collars on",
+"wiki":"https://onepiece.fandom.com/wiki/Peto_Peto_no_Mi",
+"Use":"Breed"
+},
+{
+"extID":100,
+"Num":"82",
+"Name":"Sticky Sticky Fruit",
 "Japanese_Name":"Beta Beta no mi",
 "Type":"Paramecia",
 "image":"images/stick.png",
+"User":"images/people/stick1.png",
 "Description":"Allows you to create and control mucus",
-"wiki":"https://onepiece.fandom.com/wiki/Beta_Beta_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Beta_Beta_no_Mi",
+"Use":"Trebol"
 },
 {
-"extID":83,
+"extID":101,
+"Num":"83",
 "Name":"Hobby Hobby Fruit",
 "Japanese_Name":"Hobi Hobi no mi",
 "Type":"Paramecia",
 "image":"images/hobby.png",
+"User":"images/people/hobby1.png",
 "Description":"Allows you to transform living people into toys, and erase memories of their existence from others",
-"wiki":"https://onepiece.fandom.com/wiki/Hobi_Hobi_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Hobi_Hobi_no_Mi",
+"Use":"Sugar"
 },
 {
-"extID":84,
+"extID":102,
+"Num":"84",
 "Name":"Press Press Fruit",
 "Japanese_Name":"Zushi Zushi no mi",
 "Type":"Paramecia",
 "image":"images/press.png",
+"User":"images/people/press1.png",
 "Description":"Allows you to create and manipulate gravitational forces",
-"wiki":"https://onepiece.fandom.com/wiki/Zushi_Zushi_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Zushi_Zushi_no_Mi",
+"Use":"Issho (Fujitora)"
 },
 {
-"extID":85,
+"extID":103,
+"Num":"85",
 "Name":"Barrier Barrier Fruit",
 "Japanese_Name":"Bari Bari no mi",
 "Type":"Paramecia",
 "image":"images/barrier.png",
+"User":"images/people/barrier1.png",
 "Description":"Allows you to generate barriers",
-"wiki":"https://onepiece.fandom.com/wiki/Bari_Bari_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Bari_Bari_no_Mi",
+"Use":"Kurozumi Semimaru -> Bartolomeo"
 },
 {
-"extID":86,
+"extID":104,
+"Num":"86",
 "Name":"Stitch Stitch Fruit",
 "Japanese_Name":"Nui Nui no mi",
 "Type":"Paramecia",
 "image":"images/stitch.png",
+"User":"images/people/stitch1.png",
 "Description":"Allows you to stitch things together and un-stitch them like if nothing had happened",
-"wiki":"https://onepiece.fandom.com/wiki/Nui_Nui_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Nui_Nui_no_Mi",
+"Use":"Leo"
 },
 {
-"extID":87,
+"extID":105,
+"Num":"87",
 "Name":"Glare Glare Fruit",
 "Japanese_Name":"Giro Giro no mi",
 "Type":"Paramecia",
 "image":"images/glare.png",
+"User":"images/people/glare1.png",
 "Description":"Allows you to see through everything and read the minds of others",
-"wiki":"https://onepiece.fandom.com/wiki/Giro_Giro_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Giro_Giro_no_Mi",
+"Use":"Viola (Violet)"
 },
 {
-"extID":88,
+"extID":106,
+"Num":"88",
 "Name":"Art Art Fruit",
 "Japanese_Name":"Ato Ato no mi",
 "Type":"Paramecia",
 "image":"images/art.png",
+"User":"images/people/art1.png",
 "Description":"Allows you to turn people or objects into abstract art",
-"wiki":"https://onepiece.fandom.com/wiki/Ato_Ato_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Ato_Ato_no_Mi",
+"Use":"Giolla"
 },
 {
-"extID":89,
+"extID":107,
+"Num":"89",
 "Name":"Jacket Jacket Fruit",
 "Japanese_Name":"Jake Jake no mi",
 "Type":"Paramecia",
 "image":"images/jacket.png",
+"User":"images/people/jacket1.png",
 "Description":"Allows you to become a jacket and be worn by others",
-"wiki":"https://onepiece.fandom.com/wiki/Jake_Jake_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Jake_Jake_no_Mi",
+"Use":"Kelly Funk"
 },
 {
-"extID":90,
+"extID":108,
+"Num":"90",
 "Name":"Bug-Bug Fruit, Model: Rhinoceros Beetle",
-"Japanese_Name":"Mushi Mushi no Mi, Model: Kabutomushi",
+"Japanese_Name":"Mushi Mushi no mi, Model: Kabutomushi",
 "Type":"Zoan",
 "image":"images/rhino-bug.png",
+"User":"images/people/rhino-bug1.png",
 "Description":"Allows you to transform into a rhinoceros beetle",
-"wiki":"https://onepiece.fandom.com/wiki/Mushi_Mushi_no_Mi,_Model:_Kabutomushi"
+"wiki":"https://onepiece.fandom.com/wiki/Mushi_Mushi_no_Mi,_Model:_Kabutomushi",
+"Use":"Kabu"
 },
 {
-"extID":91,
+"extID":109,
+"Num":"91",
 "Name":"Bug-Bug Fruit, Model: Hornet",
-"Japanese_Name":"Mushi Mushi no Mi, Model: Suzumebachi",
+"Japanese_Name":"Mushi Mushi no mi, Model: Suzumebachi",
 "Type":"Zoan",
 "image":"images/hornet.png",
+"User":"images/people/hornet1.png",
 "Description":"Allows you to turn into a hornet",
-"wiki":"https://onepiece.fandom.com/wiki/Mushi_Mushi_no_Mi,_Model:_Suzumebachi"
+"wiki":"https://onepiece.fandom.com/wiki/Mushi_Mushi_no_Mi,_Model:_Suzumebachi",
+"Use":"Bian"
 },
 {
-"extID":92,
+"extID":110,
+"Num":"92",
 "Name":"Pop Pop Fruit",
 "Japanese_Name":"Pamu Pamu no mi",
 "Type":"Paramecia",
 "image":"images/pop.png",
+"User":"images/people/pop1.png",
 "Description":"Allows you to cause your own body or any inorganic object you touch to rupture and explode",
-"wiki":"https://onepiece.fandom.com/wiki/Pamu_Pamu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Pamu_Pamu_no_Mi",
+"Use":"Gladius"
 },
 {
-"extID":93,
+"extID":111,
+"Num":"93",
 "Name":"Swim Swim Fruit",
 "Japanese_Name":"Sui Sui no mi",
 "Type":"Paramecia",
 "image":"images/swim.png",
+"User":"images/people/swim1.png",
 "Description":"Allows you to swim in the ground or walls",
-"wiki":"https://onepiece.fandom.com/wiki/Sui_Sui_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Sui_Sui_no_Mi",
+"Use":"Senor Pink"
 },
 {
-"extID":94,
+"extID":112,
+"Num":"94",
 "Name":"Ton Ton Fruit",
 "Japanese_Name":"Ton Ton no mi",
 "Type":"Paramecia",
 "image":"images/ton.png",
+"User":"images/people/ton1.png",
 "Description":"Allows you to increase their weight to 10,000 tons or down to 0",
-"wiki":"https://onepiece.fandom.com/wiki/Ton_Ton_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Ton_Ton_no_Mi",
+"Use":"Machvise"
 },
 {
-"extID":95,
+"extID":113,
+"Num":"95",
 "Name":"Ripple Ripple Fruit",
 "Japanese_Name":"Hira Hira no mi",
 "Type":"Paramecia",
 "image":"images/ripple.png",
+"User":"images/people/ripple1.png",
 "Description":"Allows you to make your body and any object you touch become flat and flexible, letting solid objects ripple, billow, and flutter like a piece of cloth or a flag",
-"wiki":"https://onepiece.fandom.com/wiki/Hira_Hira_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Hira_Hira_no_Mi",
+"Use":"Diamante"
 },
 {
-"extID":96,
+"extID":114,
+"Num":"96",
 "Name":"Stone Stone Fruit",
 "Japanese_Name":"Ishi Ishi no mi",
 "Type":"Paramecia",
 "image":"images/stone.png",
+"User":"images/people/stone1.png",
 "Description":"Allows you to merge with and manipulate stone",
-"wiki":"https://onepiece.fandom.com/wiki/Ishi_Ishi_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Ishi_Ishi_no_Mi",
+"Use":"Pica"
 },
 {
-"extID":97,
+"extID":115,
+"Num":"97",
 "Name":"Brush Brush Fruit",
 "Japanese_Name":"Fude Fude no mi",
 "Type":"Paramecia",
 "image":"images/brush.png",
+"User":"images/people/brush1.png",
 "Description":"Allows you to generate ink from your body and use a painting brush to turn images created with that ink into three-dimensional, lifelike objects",
-"wiki":"https://onepiece.fandom.com/wiki/Fude_Fude_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Fude_Fude_no_Mi",
+"Use":"Kurozumi Kanjuro"
 },
 {
-"extID":98,
+"extID":116,
+"Num":"98",
 "Name":"Calm Calm Fruit",
 "Japanese_Name":"Nagi Nagi no mi",
 "Type":"Paramecia",
 "image":"images/calm.png",
+"User":"images/people/calm1.png",
 "Description":"Allows you to create a soundproof field and to cancel all noises",
-"wiki":"https://onepiece.fandom.com/wiki/Nagi_Nagi_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Nagi_Nagi_no_Mi",
+"Use":"Donquixote Rosinante (Corazon)"
 },
 {
-"extID":99,
+"extID":117,
+"Num":"99",
 "Name":"Heal Heal Fruit",
 "Japanese_Name":"Chiyu Chiyu no mi",
 "Type":"Paramecia",
 "image":"images/heal.png",
+"User":"images/people/heal1.png",
 "Description":"Allows you to heal any wound or injury through the use of liquid that comes from the user's body, such as tears",
-"wiki":"https://onepiece.fandom.com/wiki/Chiyu_Chiyu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Chiyu_Chiyu_no_Mi",
+"Use":"Mansherry"
 },
 {
-"extID":100,
+"extID":118,
+"Num":"19",
+"Name":"Smelt Smelt Fruit",
+"Japanese_Name":"Gutsu Gustu no mi",
+"Type":"Paramecia",
+"image":"images/smelt.png",
+"User":"images/people/smelt1.png",
+"Description":"Allows you to ingest metal to heat up your body and create new objects out said metal",
+"wiki":"https://onepiece.fandom.com/wiki/Gutsu_Gutsu_no_Mi",
+"Use":"Bill"
+},
+{
+"extID":119,
+"Num":"20",
+"Name":"Through Through Fruit",
+"Japanese_Name":"Nuke Nuke no mi",
+"Type":"Paramecia",
+"image":"images/through.png",
+"User":"images/people/through1.png",
+"Description":"Allows you to pass through any non-living thing",
+"wiki":"https://onepiece.fandom.com/wiki/Nuke_Nuke_no_Mi",
+"Use":"Tanaka"
+},
+{
+"extID":120,
+"Num":"21",
+"Name":"Roll Roll Fruit",
+"Japanese_Name":"Koro Koro no mi",
+"Type":"Paramecia",
+"image":"images/roll.png",
+"User":"images/people/roll1.png",
+"Description":"Allows you to turn your hands and feet into wheels ",
+"wiki":"https://onepiece.fandom.com/wiki/Koro_Koro_no_Mi",
+"Use":"Aveyron"
+},
+{
+"extID":121,
+"Num":"22",
+"Name":"Colour Colour Fruit",
+"Japanese_Name":"Iro Iro no mi",
+"Type":"Paramecia",
+"image":"images/colour.png",
+"User":"images/people/colour1.png",
+"Description":"Allows you to change the colour of anything including yourself",
+"wiki":"https://onepiece.fandom.com/wiki/Iro_Iro_no_Mi",
+"Use":"Psycho P"
+},
+{
+"extID":122,
+"Num":"23",
+"Name":"Chain Chain Fruit",
+"Japanese_Name":"Jara Jara no mi",
+"Type":"Paramecia",
+"image":"images/chain.png",
+"User":"images/people/chain1.png",
+"Description":"Allows you to create and control chains",
+"wiki":"https://onepiece.fandom.com/wiki/Jara_Jara_no_Mi",
+"Use":"Mad Treasure"
+},
+{
+"extID":123,
+"Num":"24",
+"Name":"Gold Gold Fruit",
+"Japanese_Name":"Goru Goru no mi",
+"Type":"Paramecia",
+"image":"images/gold.png",
+"User":"images/people/gold1.png",
+"Description":"Allows you to telekinetically manipulate any gold that you have come into contact with at any point in time at will, this includes producing more gold than the original content, as long as there was some there to begin with",
+"wiki":"https://onepiece.fandom.com/wiki/Goru_Goru_no_Mi",
+"Use":"Gild Tesoro"
+},
+{
+"extID":124,
+"Num":"25",
+"Name":"Luck Luck Fruit",
+"Japanese_Name":"Raki Raki no mi",
+"Type":"Paramecia",
+"image":"images/luck.png",
+"User":"images/people/luck1.png",
+"Description":"Allows you to manipulate the luck of yourself and others",
+"wiki":"https://onepiece.fandom.com/wiki/Raki_Raki_no_Mi",
+"Use":"Buccarat"
+},
+{
+"extID":125,
+"Num":"100",
 "Name":"Eleph-Eleph Fruit, Model: Mammoth",
-"Japanese_Name":"Zou Zou no Mi, Model: Mammoth",
+"Japanese_Name":"Zou Zou no mi, Model: Mammoth",
 "Type":"Zoan",
 "image":"images/mammoth.png",
+"User":"images/people/mammoth1.png",
 "Description":"Allows you to transform into a mammoth",
-"wiki":"https://onepiece.fandom.com/wiki/Zou_Zou_no_Mi,_Model:_Mammoth"
+"wiki":"https://onepiece.fandom.com/wiki/Zou_Zou_no_Mi,_Model:_Mammoth",
+"Use":"Jack"
 },
 {
-"extID":101,
+"extID":126,
+"Num":"101",
 "Name":"Scroll Scroll Fruit",
 "Japanese_Name":"Maki Maki no mi",
 "Type":"Paramecia",
 "image":"images/scroll.png",
+"User":"images/people/scroll1.png",
 "Description":"Allows you to create and control scrolls at will, which have special properties including storing objects and generating drawings",
-"wiki":"https://onepiece.fandom.com/wiki/Maki_Maki_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Maki_Maki_no_Mi",
+"Use":"Raizo"
 },
 {
-"extID":102,
+"extID":127,
+"Num":"102",
 "Name":"Butter Butter Fruit",
 "Japanese_Name":"Bata Bata no mi",
 "Type":"Paramecia",
 "image":"images/butter.png",
+"User":"images/people/butter1.png",
 "Description":"Allows you to create and control butter",
-"wiki":"https://onepiece.fandom.com/wiki/Bata_Bata_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Bata_Bata_no_Mi",
+"Use":"Charlotte Galette"
 },
 {
-"extID":103,
+"extID":128,
+"Num":"103",
 "Name":"Mirror Mirror Fruit",
 "Japanese_Name":"Mira Mira no mi",
 "Type":"Paramecia",
 "image":"images/mirror.png",
+"User":"images/people/mirror1.png",
 "Description":"Allows you to create mirrors which can reflect attacks or appearances",
-"wiki":"https://onepiece.fandom.com/wiki/Mira_Mira_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Mira_Mira_no_Mi",
+"Use":"Charlotte Brulee"
 },
 {
-"extID":104,
+"extID":129,
+"Num":"104",
 "Name":"Lick Lick Fruit",
 "Japanese_Name":"Pero Pero no mi",
 "Type":"Paramecia",
 "image":"images/lick.png",
+"User":"images/people/lick1.png",
 "Description":"Allows you to create and manipulate candy at will",
-"wiki":"https://onepiece.fandom.com/wiki/Pero_Pero_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Pero_Pero_no_Mi",
+"Use":"Charlotte Perospero"
 },
 {
-"extID":105,
+"extID":130,
+"Num":"105",
 "Name":"Bis Bis Fruit",
 "Japanese_Name":"Bisu Bisu no mi",
 "Type":"Paramecia",
 "image":"images/bis.png",
+"User":"images/people/bis1.png",
 "Description":"Allows you to generate and manipulate biscuits at will",
-"wiki":"https://onepiece.fandom.com/wiki/Bisu_Bisu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Bisu_Bisu_no_Mi",
+"Use":"Charlotte Cracker"
 },
 {
-"extID":106,
+"extID":131,
+"Num":"106",
 "Name":"Book Book Fruit",
 "Japanese_Name":"Buku Buku no mi",
 "Type":"Paramecia",
 "image":"images/book.png",
+"User":"images/people/book1.png",
 "Description":"Allows you to manipulate books and control pocket dimensions within them",
-"wiki":"https://onepiece.fandom.com/wiki/Buku_Buku_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Buku_Buku_no_Mi",
+"Use":"Charlotte Mont-d'Or"
 },
 {
-"extID":107,
+"extID":132,
+"Num":"107",
 "Name":"Cream Cream Fruit",
 "Japanese_Name":"Kuri Kuri no mi",
 "Type":"Paramecia",
 "image":"images/cream.png",
+"User":"images/people/cream1.png",
 "Description":"Allows you to create and manipulate cream at will",
-"wiki":"https://onepiece.fandom.com/wiki/Kuri_Kuri_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Kuri_Kuri_no_Mi",
+"Use":"Charlotte Opera"
 },
 {
-"extID":108,
+"extID":133,
+"Num":"108",
 "Name":"Wring Wring Fruit",
 "Japanese_Name":"Shibo Shibo no mi",
 "Type":"Paramecia",
 "image":"images/wring.png",
+"User":"images/people/wring1.png",
 "Description":"Allows you to drain liquid from both living and non-living things by wringing them, as well as absorb liquid into yourself and your weapons",
-"wiki":"https://onepiece.fandom.com/wiki/Shibo_Shibo_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Shibo_Shibo_no_Mi",
+"Use":"Charlotte Smoothie"
 },
 {
-"extID":109,
+"extID":134,
+"Num":"109",
 "Name":"Memo Memo Fruit",
 "Japanese_Name":"Memo Memo no mi",
 "Type":"Paramecia",
 "image":"images/memo.png",
+"User":"images/people/memo1.png",
 "Description":"Allows you to turn people's memories into strips of film and manipulate them",
-"wiki":"https://onepiece.fandom.com/wiki/Memo_Memo_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Memo_Memo_no_Mi",
+"Use":"Charlotte Pudding"
 },
 {
-"extID":110,
+"extID":135,
+"Num":"110",
 "Name":"Bird-Bird Fruit, Model: Albatross",
-"Japanese_Name":"Tori Tori no Mi, Model: Albatross",
+"Japanese_Name":"Tori Tori no mi, Model: Albatross",
 "Type":"Zoan",
 "image":"images/albatross.png",
+"User":"images/people/albatross1.png",
 "Description":"Allows you to transform into an albatross",
-"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Albatross"
+"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Albatross",
+"Use":"'Big News' Morgans"
 },
 {
-"extID":111,
+"extID":136,
+"Num":"111",
 "Name":"Mochi Mochi Fruit",
 "Japanese_Name":"Mochi Mochi no mi",
 "Type":"Paramecia",
 "image":"images/mochi.png",
+"User":"images/people/mochi1.png",
 "Description":"Allows you to create, control, and transform into mochi",
-"wiki":"https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi",
+"Use":"Charlotte Katakuri"
 },
 {
-"extID":112,
+"extID":137,
+"Num":"112",
 "Name":"Puff Puff Fruit",
 "Japanese_Name":"Hoya Hoya no mi",
 "Type":"Paramecia",
 "image":"images/puff.png",
+"User":"images/people/puff1.png",
 "Description":"Allows you to summon a genie from your body",
-"wiki":"https://onepiece.fandom.com/wiki/Hoya_Hoya_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Hoya_Hoya_no_Mi",
+"Use":"Charlotte Daifuku"
 },
 {
-"extID":113,
+"extID":138,
+"Num":"113",
 "Name":"Heat Heat Fruit",
 "Japanese_Name":"Netsu Netsu no mi",
 "Type":"Paramecia",
 "image":"images/heat.png",
+"User":"images/people/heat1.png",
 "Description":"Allows you to emanate heat from your body",
-"wiki":"https://onepiece.fandom.com/wiki/Netsu_Netsu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Netsu_Netsu_no_Mi",
+"Use":"Charlotte Oven"
 },
 {
-"extID":114,
+"extID":139,
+"Num":"114",
 "Name":"Cook Cook Fruit",
 "Japanese_Name":"Kuku Kuku no mi",
 "Type":"Paramecia",
 "image":"images/cook.png",
+"User":"images/people/cook1.png",
 "Description":"Allows you to turn objects into food",
-"wiki":"https://onepiece.fandom.com/wiki/Kuku_Kuku_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Kuku_Kuku_no_Mi",
+"Use":"Streusen"
 },
 {
-"extID":115,
+"extID":140,
+"Num":"115",
 "Name":"Pile Pile Fruit",
 "Japanese_Name":"Gocha Gocha no mi",
 "Type":"Paramecia",
 "image":"images/pile.png",
+"User":"images/people/pile1.png",
 "Description":"Allows you to merge themselves with other people",
-"wiki":"https://onepiece.fandom.com/wiki/Gocha_Gocha_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Gocha_Gocha_no_Mi",
+"Use":"Charlotte Newshi"
 },
 {
-"extID":116,
+"extID":141,
+"Num":"116",
 "Name":"Pump Pump Fruit",
 "Japanese_Name":"Kobu Kobu no mi",
 "Type":"Paramecia",
 "image":"images/pump.png",
+"User":"images/people/pump1.png",
 "Description":"Allows you to encourage and rally other people to awaken their latent potential to fight",
-"wiki":"http://onepiece.fandom.com/wiki/Kobu_Kobu_no_Mi"
+"wiki":"http://onepiece.fandom.com/wiki/Kobu_Kobu_no_Mi",
+"Use":"Belo Betty"
 },
 {
-"extID":117,
+"extID":142,
+"Num":"117",
 "Name":"Push Push Fruit",
 "Japanese_Name":"Oshi Oshi no mi",
 "Type":"Paramecia",
 "image":"images/push.png",
+"User":"images/people/push1.png",
 "Description":"Allows you to freely move and shape the ground as though it was malleable like clay",
-"wiki":"http://onepiece.fandom.com/wiki/Oshi_Oshi_no_Mi"
+"wiki":"http://onepiece.fandom.com/wiki/Oshi_Oshi_no_Mi",
+"Use":"Morley"
 },
 {
-"extID":118,
+"extID":143,
+"Num":"118",
 "Name":"Soot Soot Fruit",
 "Japanese_Name":"Susu Susu no mi",
 "Type":"Logia",
 "image":"images/soot.png",
+"User":"images/people/soot1.png",
 "Description":"Allows you to create, control, and transform into soot at will",
-"wiki":"https://onepiece.fandom.com/wiki/Susu_Susu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Susu_Susu_no_Mi",
+"Use":"Karasu"
 },
 {
-"extID":119,
+"extID":144,
+"Num":"26",
+"Name":"Viso Viso Fruit",
+"Japanese_Name":"Bijo Bijo no mi",
+"Type":"Paramecia",
+"image":"images/viso.png",
+"User":"images/people/viso1.png",
+"Description":"Allows you to create illusions of any picture you touch",
+"wiki":"https://onepiece.fandom.com/wiki/Bijo_Bijo_no_Mi",
+"Use":"Ann"
+},
+{
+"extID":145,
+"Num":"27",
+"Name":"Clank Clank Fruit",
+"Japanese_Name":"Gasha Gasha no mi",
+"Type":"Paramecia",
+"image":"images/clank.png",
+"User":"images/people/clank1.png",
+"Description":"Allows you to telekinetically disassemble objects and reassemble them into whatever you please",
+"wiki":"https://onepiece.fandom.com/wiki/Gasha_Gasha_no_Mi",
+"Use":"Douglas Bullet"
+},
+{
+"extID":146,
+"Num":"119",
 "Name":"Millet Millet Fruit",
 "Japanese_Name":"Kibi Kibi no mi",
 "Type":"Paramecia",
 "image":"images/millet.png",
+"User":"images/people/millet1.png",
 "Description":"Allows you to create 'dango' from their cheeks that can tame animals and those of part-animal nature",
-"wiki":"https://onepiece.fandom.com/wiki/Kibi_Kibi_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Kibi_Kibi_no_Mi",
+"Use":"Kurozumi Tama"
 },
 {
-"extID":120,
+"extID":147,
+"Num":"120",
 "Name":"Dog-Dog Fruit, Model: Tanuki",
-"Japanese_Name":"Inu Inu no Mi, Model: Tanuki",
+"Japanese_Name":"Inu Inu no mi, Model: Tanuki",
 "Type":"Zoan",
 "image":"images/tanuki.png",
+"User":"images/people/tanuki1.png",
 "Description":"Allows you to transform into a tanuki",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Tanuki"
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Tanuki",
+"Use":"a pot"
 },
 {
-"extID":121,
+"extID":148,
+"Num":"121",
 "Name":"Time Time Fruit",
 "Japanese_Name":"Toki Toki no mi",
 "Type":"Paramecia",
 "image":"images/time.png",
+"User":"images/people/time1.png",
 "Description":"Allows you to send yourself and others forward in time",
-"wiki":"https://onepiece.fandom.com/wiki/Toki_Toki_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Toki_Toki_no_Mi",
+"Use":"Kozuki Toki"
 },
 {
-"extID":122,
+"extID":149,
+"Num":"122",
 "Name":"Fish Fish Fruit, Model: Azure Dragon",
-"Japanese_Name":"Uo Uo no Mi, Model: Seiryu",
+"Japanese_Name":"Uo Uo no mi, Model: Seiryu",
 "Type":"Zoan",
 "image":"images/dragon.png",
+"User":"images/people/dragon1.png",
 "Description":"Allows you to transform into a hybrid and full Azure Dragon at will",
-"wiki":"https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu"
+"wiki":"https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu",
+"Use":"Kaido"
 },
 {
-"extID":123,
+"extID":150,
+"Num":"123",
 "Name":"Ripe Ripe Fruit",
 "Japanese_Name":"Juku Juku Fruit",
 "Type":"Paramecia",
 "image":"images/ripe.png",
+"User":"images/people/ripe1.png",
 "Description":"Allows you to mature and decay anything you touch",
-"wiki":"https://onepiece.fandom.com/wiki/Juku_Juku_no_Mi"
-},
-{
-"extID":124,
-"Name":"Dog Dog Fruit, Model: Nine-Tailed Fox",
-"Japanese_Name":"Inu Inu no Mi, Model: Kyubi no Kitsune",
-"Type":"Zoan",
-"image":"images/fox.png",
-"Description":"Allows you to transform into a nine-tailed fox which grants you the power of illusion",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Kyubi_no_Kitsune"
-},
-{
-"extID":125,
-"Name":"Snake-Snake Fruit, Model: Yamata no Orochi",
-"Japanese_Name":"Hebi Hebi no Mi, Model: Yamata no Orochi",
-"Type":"Zoan",
-"image":"images/hydra.png",
-"Description":"Allows you to transform into a hybrid and full version of the Yamata no Orochi, an eight-headed snake or dragon in Japanese mythology",
-"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_Yamata_no_Orochi"
-},
-{
-"extID":126,
-"Name":"Dragon Dragon Fruit, Model: Spinosaurus",
-"Japanese_Name":"Ryu Ryu no Mi, Model: Spinosaurus",
-"Type":"Zoan",
-"image":"images/spinosaurus.png",
-"Description":"Allows you to transform into a spinosaurus",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Spinosaurus"
-},
-{
-"extID":127,
-"Name":"Dragon Dragon Fruit, Model: Pteranodon",
-"Japanese_Name":"Ryu Ryu no Mi, Model: Pteranodon",
-"Type":"Zoan",
-"image":"images/pteranodon.png",
-"Description":"Allows you to transform into a pteranodon",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Pteranodon"
-},
-{
-"extID":128,
-"Name":"Human Human Fruit, Model: Onyudo",
-"Japanese_Name":"Hito Hito no Mi, Model: Onyudo",
-"Type":"Zoan",
-"image":"images/onyudo.png",
-"Description":"Allows you to transform into an onyudo, a large monk yokai",
-"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Onyudo"
-},
-{
-"extID":129,
-"Name":"Dragon Dragon Fruit, Model: Brachiosaurus",
-"Japanese_Name":"Ryu Ryu no Mi, Model: Brachiosaurus",
-"Type":"Zoan",
-"image":"images/brach.png",
-"Description":"Allows you to transform into a brachiosaurus",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Brachiosaurus"
-},
-{
-"extID":130,
-"Name":"Dragon Dragon Fruit, Model: Pachycephalosaurus",
-"Japanese_Name":"Ryu Ryu no Mi, Model: Pachycephalosaurus",
-"Type":"Zoan",
-"image":"images/pach.png",
-"Description":"Allows you to transform into a pachycephalosaurus",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Pachycephalosaurus"
-},
-{
-"extID":131,
-"Name":"Dog Dog Fruit, Model: Okuchi no Makami",
-"Japanese_Name":"Inu Inu no Mi, Model: Okuchi no Makami",
-"Type":"Zoan",
-"image":"images/okuchi.png",
-"Description":"Allows you to transform into a hybrid and full version of an ancient wolf deity at will",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Okuchi_no_Makami"
-},
-{
-"extID":132,
-"Name":"Dragon Dragon Fruit, Model: Triceratops",
-"Japanese_Name":"Ryu Ryu no Mi, Model: Triceratops",
-"Type":"Zoan",
-"image":"images/triceratops.png",
-"Description":"Allows you to transform into a triceratops",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Triceratops"
-},
-{
-"extID":133,
-"Name":"Spider Spider Fruit, Model: Rosamygale Grauvogeli",
-"Japanese_Name":"Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",
-"Type":"Zoan",
-"image":"images/old-spider.png",
-"Description":"Allows you to transform into a hybrid and full version of a Rosamygale grauvogeli, an ancient species of spider",
-"wiki":"https://onepiece.fandom.com/wiki/Kumo_Kumo_no_Mi,_Model:_Rosamygale_Grauvogeli"
-},
-{
-"extID":134,
-"Name":"Cat Cat Fruit, Model: Saber Tiger",
-"Japanese_Name":"Neko Neko no Mi, Model: Saber Tiger",
-"Type":"Zoan",
-"image":"images/tiger.png",
-"Description":"Allows you to transform into a saber-toothed tiger",
-"wiki":"https://onepiece.fandom.com/wiki/Neko_Neko_no_Mi,_Model:_Saber_Tiger"
-},
-{
-"extID":135,
-"Name":"Woods Woods Fruit",
-"Japanese_Name":"Mori Mori no mi",
-"Type":"Logia",
-"image":"images/woods.png",
-"Description":"Allows you to create, control, and transform into flora at will",
-"wiki":"https://onepiece.fandom.com/wiki/Mori_Mori_no_Mi"
-},
-{
-"extID":136,
-"Name":"Sick Sick Fruit",
-"Japanese_Name":"Shiku Shiku no Mi",
-"Type":"Paramecia",
-"image":"images/sick.png",
-"Description":"Allows you to afflict others with diseases",
-"wiki":"https://onepiece.fandom.com/wiki/Shiku_Shiku_no_Mi"
-},
-{
-"extID":137,
-"Name":"Warp Warp Fruit",
-"Japanese_Name":"Wapu Wapu no mi",
-"Type":"Paramecia",
-"image":"images/warp.png",
-"Description":"Allows you to teleport yourself and others from place to place",
-"wiki":"https://onepiece.fandom.com/wiki/Wapu_Wapu_no_Mi"
-},
-{
-"extID":138,
-"Name":"Strong Strong Fruit",
-"Japanese_Name":"Riki Riki no mi",
-"Type":"Paramecia",
-"image":"images/strong.png",
-"Description":"Grants you increadible strength",
-"wiki":"https://onepiece.fandom.com/wiki/Riki_Riki_no_Mi"
-},
-{
-"extID":139,
-"Name":"Horse Horse Fruit, Model: Pegasus",
-"Japanese_Name":"Uma Uma no Mi, Model: Pegasus",
-"Type":"Zoan",
-"image":"images/pegasus.png",
-"Description":"Allows you to transform into a pegasus",
-"wiki":"https://onepiece.fandom.com/wiki/Uma_Uma_no_Mi,_Model:_Pegasus"
-},
-{
-"extID":140,
-"Name":"Brain Brain Fruit",
-"Japanese_Name":"Nomi Nomi no mi",
-"Type":"Paramecia",
-"image":"images/brain.png",
-"Description":"Allows your brain to expand indefinitely with new knowledge",
-"wiki":"https://onepiece.fandom.com/wiki/Nomi_Nomi_no_Mi"
-},
-{
-"extID":141,
-"Name":"Island Island Fruit",
-"Japanese_Name":"Shima Shima no mi",
-"Type":"Paramecia",
-"image":"images/island.png",
-"Description":"Allows you to merge with an island's environment and manipulate it",
-"wiki":"https://onepiece.fandom.com/wiki/Shima_Shima_no_Mi"
-},
-{
-"extID":142,
-"Name":"Glug Glug Fruit",
-"Japanese_Name":"Gabu Gabu no mi",
-"Type":"Paramecia",
-"image":"images/glug.png",
-"Description":"Allows you to drink a lot",
-"wiki":"https://onepiece.fandom.com/wiki/Gabu_Gabu_no_Mi"
-},
-{
-"extID":143,
-"Name":"Glorp Glorp Fruit",
-"Japanese_Name":"Gunyo Gunyo no mi",
-"Type":"Paramecia",
-"image":"images/glorp.png",
-"Description":"Allows you to create and control clay",
-"wiki":"https://onepiece.fandom.com/wiki/Gunyo_Gunyo_no_Mi"
-},
-{
-"extID":144,
-"Name":"Whip Whip Fruit",
-"Japanese_Name":"Muchi Muchi no mi",
-"Type":"Paramecia",
-"image":"images/whip.png",
-"Description":"Allows you to use whips to command anything you hit",
-"wiki":"https://onepiece.fandom.com/wiki/Muchi_Muchi_no_Mi"
-},
-{
-"extID":145,
-"Name":"Bat Bat Fruit, Model: Vampire",
-"Japanese_Name":"Batto Batto no Mi, Model: Vampire",
-"Type":"Zoan",
-"image":"images/bat.png",
-"Description":"Allows you to turn into a vampire",
-"wiki":"https://onepiece.fandom.com/wiki/Batto_Batto_no_Mi,_Model:_Vampire"
-},
-{
-"extID":146,
-"Name":"Viso Viso Fruit",
-"Japanese_Name":"Bijo Bijo no Mi",
-"Type":"Paramecia",
-"image":"images/viso.png",
-"Description":"Allows you to 'phantomize', or create illusory images, of any picture you touches",
-"wiki":"https://onepiece.fandom.com/wiki/Bijo_Bijo_no_Mi"
-},
-{
-"extID":147,
-"Name":"Clank Clank Fruit",
-"Japanese_Name":"Gasha Gasha no Mi",
-"Type":"Paramecia",
-"image":"images/clank.png",
-"Description":"Allows you to telekinetically disassemble objects and reassemble them into whatever you please",
-"wiki":"https://onepiece.fandom.com/wiki/Gasha_Gasha_no_Mi"
-},
-{
-"extID":148,
-"Name":"Gol Gol Fruit",
-"Japanese_Name":"Goru Goru no Mi",
-"Type":"Paramecia",
-"image":"images/gol.png",
-"Description":"Allows you to telekinetically manipulate gold at will",
-"wiki":"https://onepiece.fandom.com/wiki/Goru_Goru_no_Mi"
-},
-{
-"extID":149,
-"Name":"Character Character Fruit",
-"Japanese_Name":"Kyara Kyara no Mi",
-"Type":"Paramecia",
-"image":"images/character.png",
-"Description":"Allows you provide consciousness to non-living souls, as well as allowing your soul to merge with others",
-"wiki":"https://onepiece.fandom.com/wiki/Kyara_Kyara_no_Mi"
-},
-{
-"extID":150,
-"Name":"Paper Paper Fruit",
-"Japanese_Name":"Pasa Pasa no Mi",
-"Type":"Logia",
-"image":"images/paper.png",
-"Description":"Allows you to create, control, and transform into pieces of paper at will",
-"wiki":"https://onepiece.fandom.com/wiki/Pasa_Pasa_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Juku_Juku_no_Mi",
+"Use":"Shinobu"
 },
 {
 "extID":151,
-"Name":"You You Fruit",
-"Japanese_Name":"Peke Peke no Mi",
-"Type":"Paramecia",
-"image":"images/you.png",
-"Description":"Allows you to transform other people into clones of yourself",
-"wiki":"https://onepiece.fandom.com/wiki/Peke_Peke_no_Mi"
+"Num":"124",
+"Name":"Dog Dog Fruit, Model: Nine-Tailed Fox",
+"Japanese_Name":"Inu Inu no mi, Model: Kyubi no Kitsune",
+"Type":"Zoan",
+"image":"images/fox.png",
+"User":"images/people/fox1.png",
+"Description":"Allows you to transform into a nine-tailed fox which grants you the power of illusion",
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Kyubi_no_Kitsune",
+"Use":"Catarina Devon"
 },
 {
 "extID":152,
-"Name":"Bird Bird Fruit, Model: Nue",
-"Japanese_Name":"Tori Tori no Mi, Model: Nue",
+"Num":"125",
+"Name":"Snake-Snake Fruit, Model: Yamata no Orochi",
+"Japanese_Name":"Hebi Hebi no mi, Model: Yamata no Orochi",
 "Type":"Zoan",
-"image":"images/nue.png",
-"Description":"Allows you to transform into a Nue",
-"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Nue"
+"image":"images/hydra.png",
+"User":"images/people/hydra1.png",
+"Description":"Allows you to transform into a hybrid and full version of the Yamata no Orochi, an eight-headed snake or dragon in Japanese mythology",
+"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_Yamata_no_Orochi",
+"Use":"Kurozumi Orochi"
 },
 {
 "extID":153,
+"Num":"126",
+"Name":"Dragon Dragon Fruit, Model: Spinosaurus",
+"Japanese_Name":"Ryu Ryu no mi, Model: Spinosaurus",
+"Type":"Zoan",
+"image":"images/spinosaurus.png",
+"User":"images/people/spinosaurus1.png",
+"Description":"Allows you to transform into a spinosaurus",
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Spinosaurus",
+"Use":"Page One"
+},
+{
+"extID":154,
+"Num":"127",
+"Name":"Dragon Dragon Fruit, Model: Pteranodon",
+"Japanese_Name":"Ryu Ryu no mi, Model: Pteranodon",
+"Type":"Zoan",
+"image":"images/pteranodon.png",
+"User":"images/people/pteranodon1.png",
+"Description":"Allows you to transform into a pteranodon",
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Pteranodon",
+"Use":"King"
+},
+{
+"extID":155,
+"Num":"128",
+"Name":"Human Human Fruit, Model: Onyudo",
+"Japanese_Name":"Hito Hito no mi, Model: Onyudo",
+"Type":"Zoan",
+"image":"images/onyudo.png",
+"User":"images/people/onyudo1.png",
+"Description":"Allows you to transform into an onyudo, a large monk yokai",
+"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Onyudo",
+"Use":"Onimaru"
+},
+{
+"extID":156,
+"Num":"129",
+"Name":"Dragon Dragon Fruit, Model: Brachiosaurus",
+"Japanese_Name":"Ryu Ryu no mi, Model: Brachiosaurus",
+"Type":"Zoan",
+"image":"images/brach.png",
+"User":"images/people/brach1.png",
+"Description":"Allows you to transform into a brachiosaurus",
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Brachiosaurus",
+"Use":"Queen"
+},
+{
+"extID":157,
+"Num":"130",
+"Name":"Dragon Dragon Fruit, Model: Pachycephalosaurus",
+"Japanese_Name":"Ryu Ryu no mi, Model: Pachycephalosaurus",
+"Type":"Zoan",
+"image":"images/pach.png",
+"User":"images/people/pach1.png",
+"Description":"Allows you to transform into a pachycephalosaurus",
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Pachycephalosaurus",
+"Use":"Ulti"
+},
+{
+"extID":158,
+"Num":"131",
+"Name":"Dog Dog Fruit, Model: Okuchi no Makami",
+"Japanese_Name":"Inu Inu no mi, Model: Okuchi no Makami",
+"Type":"Zoan",
+"image":"images/okuchi.png",
+"User":"images/people/okuchi1.png",
+"Description":"Allows you to transform into a hybrid and full version of an ancient wolf deity at will",
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Okuchi_no_Makami",
+"Use":"Yamato"
+},
+{
+"extID":159,
+"Num":"132",
+"Name":"Dragon Dragon Fruit, Model: Triceratops",
+"Japanese_Name":"Ryu Ryu no mi, Model: Triceratops",
+"Type":"Zoan",
+"image":"images/triceratops.png",
+"User":"images/people/triceratops1.png",
+"Description":"Allows you to transform into a triceratops",
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Triceratops",
+"Use":"Sasaki"
+},
+{
+"extID":160,
+"Num":"133",
+"Name":"Spider Spider Fruit, Model: Rosamygale Grauvogeli",
+"Japanese_Name":"Kumo Kumo no mi, Model: Rosamygale Grauvogeli",
+"Type":"Zoan",
+"image":"images/old-spider.png",
+"User":"images/people/old-spider1.png",
+"Description":"Allows you to transform into a hybrid and full version of a Rosamygale grauvogeli, an ancient species of spider",
+"wiki":"https://onepiece.fandom.com/wiki/Kumo_Kumo_no_Mi,_Model:_Rosamygale_Grauvogeli",
+"Use":"Black Maria"
+},
+{
+"extID":161,
+"Num":"134",
+"Name":"Cat Cat Fruit, Model: Saber Tiger",
+"Japanese_Name":"Neko Neko no mi, Model: Saber Tiger",
+"Type":"Zoan",
+"image":"images/tiger.png",
+"User":"images/people/tiger1.png",
+"Description":"Allows you to transform into a saber-toothed tiger",
+"wiki":"https://onepiece.fandom.com/wiki/Neko_Neko_no_Mi,_Model:_Saber_Tiger",
+"Use":"Who's Who"
+},
+{
+"extID":162,
+"Num":"28",
 "Name":"Sing Sing Fruit",
 "Japanese_Name":"Uta Uta no mi",
 "Type":"Paramecia",
 "image":"images/sing.png",
+"User":"images/people/sing1.png",
 "Description":"Allows you to teleport people's consciousnesses into a virtual space by singing in which you are all powerful",
-"wiki":"https://onepiece.fandom.com/wiki/Uta_Uta_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Uta_Uta_no_Mi",
+"Use":"Uta"
+},
+{
+"extID":163,
+"Num":"135",
+"Name":"Woods Woods Fruit",
+"Japanese_Name":"Mori Mori no mi",
+"Type":"Logia",
+"image":"images/woods.png",
+"User":"images/people/woods1.png",
+"Description":"Allows you to create, control, and transform into flora at will",
+"wiki":"https://onepiece.fandom.com/wiki/Mori_Mori_no_Mi",
+"Use":"Aramaki (Ryokugyu)"
+},
+{
+"extID":164,
+"Num":"136",
+"Name":"Sick Sick Fruit",
+"Japanese_Name":"Shiku Shiku no mi",
+"Type":"Paramecia",
+"image":"images/sick.png",
+"User":"images/people/sick1.png",
+"Description":"Allows you to afflict others with diseases",
+"wiki":"https://onepiece.fandom.com/wiki/Shiku_Shiku_no_Mi",
+"Use":"Doc Q"
+},
+{
+"extID":165,
+"Num":"137",
+"Name":"Warp Warp Fruit",
+"Japanese_Name":"Wapu Wapu no mi",
+"Type":"Paramecia",
+"image":"images/warp.png",
+"User":"images/people/warp1.png",
+"Description":"Allows you to teleport yourself and others from place to place",
+"wiki":"https://onepiece.fandom.com/wiki/Wapu_Wapu_no_Mi",
+"Use":"Van Augur"
+},
+{
+"extID":166,
+"Num":"138",
+"Name":"Strong Strong Fruit",
+"Japanese_Name":"Riki Riki no mi",
+"Type":"Paramecia",
+"image":"images/strong.png",
+"User":"images/people/strong1.png",
+"Description":"Grants you increadible strength",
+"wiki":"https://onepiece.fandom.com/wiki/Riki_Riki_no_Mi",
+"Use":"Jesus Burgess"
+},
+{
+"extID":167,
+"Num":"139",
+"Name":"Horse Horse Fruit, Model: Pegasus",
+"Japanese_Name":"Uma Uma no mi, Model: Pegasus",
+"Type":"Zoan",
+"image":"images/pegasus.png",
+"User":"images/people/pegasus1.png",
+"Description":"Allows you to transform into a pegasus",
+"wiki":"https://onepiece.fandom.com/wiki/Uma_Uma_no_Mi,_Model:_Pegasus",
+"Use":"Stronger"
+},
+{
+"extID":168,
+"Num":"140",
+"Name":"Brain Brain Fruit",
+"Japanese_Name":"Nomi Nomi no mi",
+"Type":"Paramecia",
+"image":"images/brain.png",
+"User":"images/people/brain1.png",
+"Description":"Allows your brain to expand indefinitely with new knowledge",
+"wiki":"https://onepiece.fandom.com/wiki/Nomi_Nomi_no_Mi",
+"Use":"Vegapunk"
+},
+{
+"extID":169,
+"Num":"141",
+"Name":"Bat Bat Fruit",
+"Japanese_Name":"Batto Batto no mi",
+"Type":"Zoan",
+"image":"images/bat.png",
+"User":"images/people/bat1.png",
+"Description":"Allows you to transform into a bat",
+"wiki":"https://onepiece.fandom.com/wiki/Batto_Batto_no_Mi",
+"Use":"Stussy"
+},
+{
+"extID":170,
+"Num":"142",
+"Name":"Isle Isle Fruit",
+"Japanese_Name":"Shima Shima no mi",
+"Type":"Paramecia",
+"image":"images/island.png",
+"User":"images/people/island1.png",
+"Description":"Allows you to merge with an island's environment and manipulate it",
+"wiki":"https://onepiece.fandom.com/wiki/Shima_Shima_no_Mi",
+"Use":"Avalo Pizarro"
+},
+{
+"extID":171,
+"Num":"143",
+"Name":"Glug Glug Fruit",
+"Japanese_Name":"Gabu Gabu no mi",
+"Type":"Paramecia",
+"image":"images/glug.png",
+"User":"images/people/glug1.png",
+"Description":"Allows you to drink as much as you want and then use the liquor that you drank as ammunition in combat, lighting it on fire at will",
+"wiki":"https://onepiece.fandom.com/wiki/Gabu_Gabu_no_Mi",
+"Use":"Vasco Shot"
+},
+{
+"extID":172,
+"Num":"144",
+"Name":"Glorp Glorp Fruit",
+"Japanese_Name":"Gunyo Gunyo no mi",
+"Type":"Paramecia",
+"image":"images/glorp.png",
+"User":"images/people/glorp1.png",
+"Description":"Allows you to create and control clay",
+"wiki":"https://onepiece.fandom.com/wiki/Gunyo_Gunyo_no_Mi",
+"Use":"Prince Grus"
+},
+{
+"extID":173,
+"Num":"145",
+"Name":"Whip Whip Fruit",
+"Japanese_Name":"Muchi Muchi no mi",
+"Type":"Paramecia",
+"image":"images/whip.png",
+"User":"images/people/whip1.png",
+"Description":"Allows you to use whips to command anything you hit",
+"wiki":"https://onepiece.fandom.com/wiki/Muchi_Muchi_no_Mi",
+"Use":"Kujaku"
 }
 ]

@@ -1,380 +1,530 @@
 [
 {
-"extID":11,
+"extID":16,
+"Num":"11",
 "Name":"Ox Ox Fruit - Model: Bison",
 "Japanese_Name":"Ushi Ushi no mi - Model: Bison",
 "Type":"Zoan",
 "image":"images/ox.png",
+"User":"images/people/ox1.png",
 "Description":"Allows you to transform into a Bison ",
-"wiki":"https://onepiece.fandom.com/wiki/Ushi_Ushi_no_Mi,_Model:_Bison"
+"wiki":"https://onepiece.fandom.com/wiki/Ushi_Ushi_no_Mi,_Model:_Bison",
+"Use":"Dalton"
 },
 {
-"extID":12,
+"extID":17,
+"Num":"12",
 "Name":"Human Human Fruit",
 "Japanese_Name":"Hito Hito no mi",
 "Type":"Zoan",
 "image":"images/human.png",
+"User":"images/people/human1.png",
 "Description":"Allows you to transform into a human",
-"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi",
+"Use":"Tony Tony Chopper"
 },
 {
-"extID":16,
+"extID":21,
+"Num":"16",
 "Name":"Bird Bird Fruit - Model: Falcon",
 "Japanese_Name":"Tori Tori no mi - Model: Falcon",
 "Type":"Zoan",
 "image":"images/falcon.png",
+"User":"images/people/falcon1.png",
 "Description":"Allows you to transform into a Falcon",
-"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Falcon"
+"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Falcon",
+"Use":"Pell"
 },
 {
-"extID":17,
+"extID":22,
+"Num":"17",
 "Name":"Dog Dog Fruit - Model: Dachshund",
 "Japanese_Name":"Inu Inu no mi - Model: Dachshund",
 "Type":"Zoan",
 "image":"images/dachshund.png",
+"User":"images/people/dachshund1.png",
 "Description":"Allows you to transform into a Dachshund",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Dachshund"
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Dachshund",
+"Use":"a gun"
 },
 {
-"extID":18,
+"extID":23,
+"Num":"18",
 "Name":"Mole Mole Fruit",
 "Japanese_Name":"Mogu Mogu no mi",
 "Type":"Zoan",
 "image":"images/mole.png",
+"User":"images/people/mole1.png",
 "Description":"Allows you to transform into a Mole",
-"wiki":"https://onepiece.fandom.com/wiki/Mogu_Mogu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Mogu_Mogu_no_Mi",
+"Use":"Ms Merry Christmas (Drophy)"
 },
 {
-"extID":20,
+"extID":25,
+"Num":"20",
 "Name":"Dog Dog Fruit - Model: Jackal",
 "Japanese_Name":"Inu Inu no mi - Model: Jackal",
 "Type":"Zoan",
 "image":"images/jackal.png",
+"User":"images/people/jackal1.png",
 "Description":"Allows you to transform into a Jackal",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Jackal"
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Jackal",
+"Use":"Chaka"
 },
 {
-"extID":24,
+"extID":31,
+"Num":"24",
 "Name":"Horse Horse Fruit",
 "Japanese_Name":"Uma Uma no mi",
 "Type":"Zoan",
 "image":"images/horse.png",
+"User":"images/people/horse1.png",
 "Description":"Allows you to transform into a Horse",
-"wiki":"https://onepiece.fandom.com/wiki/Uma_Uma_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Uma_Uma_no_Mi",
+"Use":"Pierre"
 },
 {
-"extID":29,
+"extID":34,
+"Num":"8",
+"Name":"Cat Cat Fruit, Model: Cheetah",
+"Japanese_Name":"Neko Neko no mi, Model: Cheetah",
+"Type":"Zoan",
+"image":"images/cheetah.png",
+"User":"images/people/cheetah1.png",
+"Description":"Allows you to turn into a cheetah",
+"wiki":"https://onepiece.fandom.com/wiki/Chiqicheetah",
+"Use":"Chiqicheetah"
+},
+{
+"extID":37,
+"Num":"29",
 "Name":"Cat Cat Fruit - Model: Leopard",
 "Japanese_Name":"Neko Neko no mi - Model: Leopard",
 "Type":"Zoan",
 "image":"images/leopard.png",
+"User":"images/people/leopard1.png",
 "Description":"Allows you to transform into a Leopard",
-"wiki":"https://onepiece.fandom.com/wiki/Neko_Neko_no_Mi,_Model:_Leopard"
+"wiki":"https://onepiece.fandom.com/wiki/Neko_Neko_no_Mi,_Model:_Leopard",
+"Use":"Rob Lucci"
 },
 {
-"extID":30,
+"extID":38,
+"Num":"30",
 "Name":"Eleph Eleph Fruit",
 "Japanese_Name":"Zou Zou no mi",
 "Type":"Zoan",
 "image":"images/eleph.png",
+"User":"images/people/eleph1.png",
 "Description":"Allows you to transform into an Elephant",
-"wiki":"https://onepiece.fandom.com/wiki/Zou_Zou_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Zou_Zou_no_Mi",
+"Use":"a sword"
 },
 {
-"extID":31,
+"extID":39,
+"Num":"31",
 "Name":"Dog Dog Fruit - Model: Wolf",
 "Japanese_Name":"Inu Inu no mi - Model: Wolf",
 "Type":"Zoan",
 "image":"images/wolf.png",
+"User":"images/people/wolf1.png",
 "Description":"Allows you to transform into a Wolf",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Wolf"
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Wolf",
+"Use":"Jabra"
 },
 {
-"extID":32,
+"extID":40,
+"Num":"32",
 "Name":"Ox Ox Fruit - Model: Giraffe",
 "Japanese_Name":"Ushi Ushi no mi - Model: Giraffe",
 "Type":"Zoan",
 "image":"images/giraffe.png",
+"User":"images/people/giraffe1.png",
 "Description":"Allows you to transform into a Giraffe",
-"wiki":"https://onepiece.fandom.com/wiki/Ushi_Ushi_no_Mi,_Model:_Giraffe"
+"wiki":"https://onepiece.fandom.com/wiki/Ushi_Ushi_no_Mi,_Model:_Giraffe",
+"Use":"Kaku"
 },
 {
-"extID":49,
+"extID":52,
+"Num":"10",
+"Name":"Bird Bird Fruit, Model: Eagle",
+"Japanese_Name":"Tori Tori no mi, Model: Eagle",
+"Type":"Zoan",
+"image":"images/eagle.png",
+"User":"images/people/eagle1.png",
+"Description":"Allows you to transform into an eagle",
+"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Eagle",
+"Use":"Wazu"
+},
+{
+"extID":59,
+"Num":"49",
 "Name":"Dragon Dragon Fruit - Model: Allosaurus",
 "Japanese_Name":"Ryu Ryu no mi",
 "Type":"Zoan",
 "image":"images/allosaurus.png",
+"User":"images/people/allosaurus1.png",
 "Description":"Allows you to transform into an Allosaurus",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Allosaurus"
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Allosaurus",
+"Use":"X Drake"
 },
 {
-"extID":53,
+"extID":63,
+"Num":"53",
 "Name":"Snake Snake Fruit - Model: Anaconda",
 "Japanese_Name":"Hebi Hebi no mi - Model: Anaconda",
 "Type":"Zoan",
 "image":"images/anaconda.png",
+"User":"images/people/anaconda1.png",
 "Description":"Allows you to transform into an Anaconda",
-"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_Anaconda"
+"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_Anaconda",
+"Use":"Boa Sandersonia"
 },
 {
-"extID":54,
+"extID":64,
+"Num":"54",
 "Name":"Snake Snake Fruit - Model: King Cobra",
 "Japanese_Name":"Hebi Hebi no mi - Model: King Cobra",
 "Type":"Zoan",
 "image":"images/cobra.png",
+"User":"images/people/cobra1.png",
 "Description":"Allows you to transform into a King Cobra",
-"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_King_Cobra"
+"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_King_Cobra",
+"Use":"Boa Marigold"
 },
 {
-"extID":61,
+"extID":72,
+"Num":"61",
 "Name":"Dog Dog Fruit - Model: Dalmatian",
 "Japanese_Name":"Inu Inu no mi - Model: Dalmatian",
 "Type":"Zoan",
 "image":"images/dalmatian.png",
+"User":"images/people/dalmatian1.png",
 "Description":"Allows you to transform into a Dalmatian",
-"wiki":"https://onepiece.fandom.com/wiki/Dalmatian"
+"wiki":"https://onepiece.fandom.com/wiki/Dalmatian",
+"Use":"Dalmatian"
 },
 {
-"extID":63,
+"extID":74,
+"Num":"63",
 "Name":"Bug Bug Fruit - Model: Caterpillar",
 "Japanese_Name":"Mushi Mushi no mi - Model: Caterpillar",
 "Type":"Zoan",
 "image":"images/caterpillar.png",
+"User":"images/people/caterpillar1.png",
 "Description":"Allows you to transform into a Caterpillar",
-"wiki":"https://onepiece.fandom.com/wiki/Epoida"
+"wiki":"https://onepiece.fandom.com/wiki/Epoida",
+"Use":"Epoida"
 },
 {
-"extID":64,
+"extID":75,
+"Num":"64",
 "Name":"Bird Bird Fruit - Model: Phoenix",
 "Japanese_Name":"Tori Tori no mi - Model: Phoenix",
 "Type":"Zoan",
 "image":"images/phoenix.png",
+"User":"images/people/phoenix1.png",
 "Description":"Allows you to transform any part of your your body into Phoenix flames",
-"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Phoenix"
+"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Phoenix",
+"Use":"Marco"
 },
 {
-"extID":68,
+"extID":79,
+"Num":"68",
 "Name":"Spider Spider Fruit",
 "Japanese_Name":"Kumo Kumo no mi",
 "Type":"Zoan",
 "image":"images/spider.png",
+"User":"images/people/spider1.png",
 "Description":"Allows you to transform into a Spider",
-"wiki":"https://onepiece.fandom.com/wiki/Onigumo"
+"wiki":"https://onepiece.fandom.com/wiki/Onigumo",
+"Use":"Onigumo"
 },
 {
-"extID":69,
+"extID":80,
+"Num":"69",
 "Name":"Human Human Fruit - Model: Buddha",
 "Japanese_Name":"Hito Hito no mi - Model: Buddha",
 "Type":"Zoan",
 "image":"images/buddha.png",
+"User":"images/people/buddha1.png",
 "Description":"Allows you to transform into a Buddha",
-"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Daibutsu"
+"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Daibutsu",
+"Use":"Sengoku"
 },
 {
-"extID":74,
+"extID":87,
+"Num":"74",
 "Name":"Turtle Turtle Fruit",
 "Japanese_Name":"Kame Kame no mi",
 "Type":"Zoan",
 "image":"images/turtle.png",
+"User":"images/people/turtle1.png",
 "Description":"Allows you to transform into a Turtle",
-"wiki":"https://onepiece.fandom.com/wiki/Kame_Kame_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Kame_Kame_no_Mi",
+"Use":"Pekoms"
 },
 {
-"extID":75,
+"extID":88,
+"Num":"75",
 "Name":"Egg Egg Fruit",
 "Japanese_Name":"Tama Tama no mi",
 "Type":"Zoan",
 "image":"images/egg.png",
+"User":"images/people/egg1.png",
 "Description":"Turns your body composition into that of an egg, which if cracked open will cause you to regenerate into a stronger body that features more and more chicken-like features each time.",
-"wiki":"https://onepiece.fandom.com/wiki/Tama_Tama_no_Mi"
-},
-{
-"extID":78,
-"Name":"Sala-Sala Fruit, Model: Axolotl",
-"Japanese_Name":"Sara Sara no Mi, Model: Axolotl",
-"Type":"Zoan",
-"image":"images/axolotl.png",
-"Description":"Allows you to transform into an axolotl",
-"wiki":"https://onepiece.fandom.com/wiki/Sara_Sara_no_Mi,_Model:_Axolotl"
+"wiki":"https://onepiece.fandom.com/wiki/Tama_Tama_no_Mi",
+"Use":"Baron Tamago"
 },
 {
 "extID":90,
+"Num":"15",
+"Name":"Alpaca Alpaca Fruit",
+"Japanese_Name":"Ushi Ushi no mi, Model: Alpaca",
+"Type":"Zoan",
+"image":"images/alpaca.png",
+"User":"images/people/alpaca1.png",
+"Description":"Allows you to transform into an alpaca",
+"wiki":"https://onepiece.fandom.com/wiki/Alpacacino",
+"Use":"a bazooka"
+},
+{
+"extID":95,
+"Num":"78",
+"Name":"Sala-Sala Fruit, Model: Axolotl",
+"Japanese_Name":"Sara Sara no mi, Model: Axolotl",
+"Type":"Zoan",
+"image":"images/axolotl.png",
+"User":"images/people/axolotl1.png",
+"Description":"Allows you to transform into an axolotl",
+"wiki":"https://onepiece.fandom.com/wiki/Sara_Sara_no_Mi,_Model:_Axolotl",
+"Use":"some goo"
+},
+{
+"extID":108,
+"Num":"90",
 "Name":"Bug-Bug Fruit, Model: Rhinoceros Beetle",
-"Japanese_Name":"Mushi Mushi no Mi, Model: Kabutomushi",
+"Japanese_Name":"Mushi Mushi no mi, Model: Kabutomushi",
 "Type":"Zoan",
 "image":"images/rhino-bug.png",
+"User":"images/people/rhino-bug1.png",
 "Description":"Allows you to transform into a rhinoceros beetle",
-"wiki":"https://onepiece.fandom.com/wiki/Mushi_Mushi_no_Mi,_Model:_Kabutomushi"
+"wiki":"https://onepiece.fandom.com/wiki/Mushi_Mushi_no_Mi,_Model:_Kabutomushi",
+"Use":"Kabu"
 },
 {
-"extID":91,
+"extID":109,
+"Num":"91",
 "Name":"Bug-Bug Fruit, Model: Hornet",
-"Japanese_Name":"Mushi Mushi no Mi, Model: Suzumebachi",
+"Japanese_Name":"Mushi Mushi no mi, Model: Suzumebachi",
 "Type":"Zoan",
 "image":"images/hornet.png",
+"User":"images/people/hornet1.png",
 "Description":"Allows you to turn into a hornet",
-"wiki":"https://onepiece.fandom.com/wiki/Mushi_Mushi_no_Mi,_Model:_Suzumebachi"
-},
-{
-"extID":100,
-"Name":"Eleph-Eleph Fruit, Model: Mammoth",
-"Japanese_Name":"Zou Zou no Mi, Model: Mammoth",
-"Type":"Zoan",
-"image":"images/mammoth.png",
-"Description":"Allows you to transform into a mammoth",
-"wiki":"https://onepiece.fandom.com/wiki/Zou_Zou_no_Mi,_Model:_Mammoth"
-},
-{
-"extID":110,
-"Name":"Bird-Bird Fruit, Model: Albatross",
-"Japanese_Name":"Tori Tori no Mi, Model: Albatross",
-"Type":"Zoan",
-"image":"images/albatross.png",
-"Description":"Allows you to transform into an albatross",
-"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Albatross"
-},
-{
-"extID":120,
-"Name":"Dog-Dog Fruit, Model: Tanuki",
-"Japanese_Name":"Inu Inu no Mi, Model: Tanuki",
-"Type":"Zoan",
-"image":"images/tanuki.png",
-"Description":"Allows you to transform into a tanuki",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Tanuki"
-},
-{
-"extID":122,
-"Name":"Fish Fish Fruit, Model: Azure Dragon",
-"Japanese_Name":"Uo Uo no Mi, Model: Seiryu",
-"Type":"Zoan",
-"image":"images/dragon.png",
-"Description":"Allows you to transform into a hybrid and full Azure Dragon at will",
-"wiki":"https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu"
-},
-{
-"extID":124,
-"Name":"Dog Dog Fruit, Model: Nine-Tailed Fox",
-"Japanese_Name":"Inu Inu no Mi, Model: Kyubi no Kitsune",
-"Type":"Zoan",
-"image":"images/fox.png",
-"Description":"Allows you to transform into a nine-tailed fox which grants you the power of illusion",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Kyubi_no_Kitsune"
+"wiki":"https://onepiece.fandom.com/wiki/Mushi_Mushi_no_Mi,_Model:_Suzumebachi",
+"Use":"Bian"
 },
 {
 "extID":125,
-"Name":"Snake-Snake Fruit, Model: Yamata no Orochi",
-"Japanese_Name":"Hebi Hebi no Mi, Model: Yamata no Orochi",
+"Num":"100",
+"Name":"Eleph-Eleph Fruit, Model: Mammoth",
+"Japanese_Name":"Zou Zou no mi, Model: Mammoth",
 "Type":"Zoan",
-"image":"images/hydra.png",
-"Description":"Allows you to transform into a hybrid and full version of the Yamata no Orochi, an eight-headed snake or dragon in Japanese mythology",
-"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_Yamata_no_Orochi"
+"image":"images/mammoth.png",
+"User":"images/people/mammoth1.png",
+"Description":"Allows you to transform into a mammoth",
+"wiki":"https://onepiece.fandom.com/wiki/Zou_Zou_no_Mi,_Model:_Mammoth",
+"Use":"Jack"
 },
 {
-"extID":126,
-"Name":"Dragon Dragon Fruit, Model: Spinosaurus",
-"Japanese_Name":"Ryu Ryu no Mi, Model: Spinosaurus",
+"extID":135,
+"Num":"110",
+"Name":"Bird-Bird Fruit, Model: Albatross",
+"Japanese_Name":"Tori Tori no mi, Model: Albatross",
 "Type":"Zoan",
-"image":"images/spinosaurus.png",
-"Description":"Allows you to transform into a spinosaurus",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Spinosaurus"
+"image":"images/albatross.png",
+"User":"images/people/albatross1.png",
+"Description":"Allows you to transform into an albatross",
+"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Albatross",
+"Use":"'Big News' Morgans"
 },
 {
-"extID":127,
-"Name":"Dragon Dragon Fruit, Model: Pteranodon",
-"Japanese_Name":"Ryu Ryu no Mi, Model: Pteranodon",
+"extID":147,
+"Num":"120",
+"Name":"Dog-Dog Fruit, Model: Tanuki",
+"Japanese_Name":"Inu Inu no mi, Model: Tanuki",
 "Type":"Zoan",
-"image":"images/pteranodon.png",
-"Description":"Allows you to transform into a pteranodon",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Pteranodon"
+"image":"images/tanuki.png",
+"User":"images/people/tanuki1.png",
+"Description":"Allows you to transform into a tanuki",
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Tanuki",
+"Use":"a pot"
 },
 {
-"extID":128,
-"Name":"Human Human Fruit, Model: Onyudo",
-"Japanese_Name":"Hito Hito no Mi, Model: Onyudo",
+"extID":149,
+"Num":"122",
+"Name":"Fish Fish Fruit, Model: Azure Dragon",
+"Japanese_Name":"Uo Uo no mi, Model: Seiryu",
 "Type":"Zoan",
-"image":"images/onyudo.png",
-"Description":"Allows you to transform into an onyudo, a large monk yokai",
-"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Onyudo"
+"image":"images/dragon.png",
+"User":"images/people/dragon1.png",
+"Description":"Allows you to transform into a hybrid and full Azure Dragon at will",
+"wiki":"https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu",
+"Use":"Kaido"
 },
 {
-"extID":129,
-"Name":"Dragon Dragon Fruit, Model: Brachiosaurus",
-"Japanese_Name":"Ryu Ryu no Mi, Model: Brachiosaurus",
+"extID":151,
+"Num":"124",
+"Name":"Dog Dog Fruit, Model: Nine-Tailed Fox",
+"Japanese_Name":"Inu Inu no mi, Model: Kyubi no Kitsune",
 "Type":"Zoan",
-"image":"images/brach.png",
-"Description":"Allows you to transform into a brachiosaurus",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Brachiosaurus"
-},
-{
-"extID":130,
-"Name":"Dragon Dragon Fruit, Model: Pachycephalosaurus",
-"Japanese_Name":"Ryu Ryu no Mi, Model: Pachycephalosaurus",
-"Type":"Zoan",
-"image":"images/pach.png",
-"Description":"Allows you to transform into a pachycephalosaurus",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Pachycephalosaurus"
-},
-{
-"extID":131,
-"Name":"Dog Dog Fruit, Model: Okuchi no Makami",
-"Japanese_Name":"Inu Inu no Mi, Model: Okuchi no Makami",
-"Type":"Zoan",
-"image":"images/okuchi.png",
-"Description":"Allows you to transform into a hybrid and full version of an ancient wolf deity at will",
-"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Okuchi_no_Makami"
-},
-{
-"extID":132,
-"Name":"Dragon Dragon Fruit, Model: Triceratops",
-"Japanese_Name":"Ryu Ryu no Mi, Model: Triceratops",
-"Type":"Zoan",
-"image":"images/triceratops.png",
-"Description":"Allows you to transform into a triceratops",
-"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Triceratops"
-},
-{
-"extID":133,
-"Name":"Spider Spider Fruit, Model: Rosamygale Grauvogeli",
-"Japanese_Name":"Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",
-"Type":"Zoan",
-"image":"images/old-spider.png",
-"Description":"Allows you to transform into a hybrid and full version of a Rosamygale grauvogeli, an ancient species of spider",
-"wiki":"https://onepiece.fandom.com/wiki/Kumo_Kumo_no_Mi,_Model:_Rosamygale_Grauvogeli"
-},
-{
-"extID":134,
-"Name":"Cat Cat Fruit, Model: Saber Tiger",
-"Japanese_Name":"Neko Neko no Mi, Model: Saber Tiger",
-"Type":"Zoan",
-"image":"images/tiger.png",
-"Description":"Allows you to transform into a saber-toothed tiger",
-"wiki":"https://onepiece.fandom.com/wiki/Neko_Neko_no_Mi,_Model:_Saber_Tiger"
-},
-{
-"extID":139,
-"Name":"Horse Horse Fruit, Model: Pegasus",
-"Japanese_Name":"Uma Uma no Mi, Model: Pegasus",
-"Type":"Zoan",
-"image":"images/pegasus.png",
-"Description":"Allows you to transform into a pegasus",
-"wiki":"https://onepiece.fandom.com/wiki/Uma_Uma_no_Mi,_Model:_Pegasus"
-},
-{
-"extID":145,
-"Name":"Bat Bat Fruit, Model: Vampire",
-"Japanese_Name":"Batto Batto no Mi, Model: Vampire",
-"Type":"Zoan",
-"image":"images/bat.png",
-"Description":"Allows you to turn into a vampire",
-"wiki":"https://onepiece.fandom.com/wiki/Batto_Batto_no_Mi,_Model:_Vampire"
+"image":"images/fox.png",
+"User":"images/people/fox1.png",
+"Description":"Allows you to transform into a nine-tailed fox which grants you the power of illusion",
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Kyubi_no_Kitsune",
+"Use":"Catarina Devon"
 },
 {
 "extID":152,
-"Name":"Bird Bird Fruit, Model: Nue",
-"Japanese_Name":"Tori Tori no Mi, Model: Nue",
+"Num":"125",
+"Name":"Snake-Snake Fruit, Model: Yamata no Orochi",
+"Japanese_Name":"Hebi Hebi no mi, Model: Yamata no Orochi",
 "Type":"Zoan",
-"image":"images/nue.png",
-"Description":"Allows you to transform into a Nue",
-"wiki":"https://onepiece.fandom.com/wiki/Tori_Tori_no_Mi,_Model:_Nue"
+"image":"images/hydra.png",
+"User":"images/people/hydra1.png",
+"Description":"Allows you to transform into a hybrid and full version of the Yamata no Orochi, an eight-headed snake or dragon in Japanese mythology",
+"wiki":"https://onepiece.fandom.com/wiki/Hebi_Hebi_no_Mi,_Model:_Yamata_no_Orochi",
+"Use":"Kurozumi Orochi"
+},
+{
+"extID":153,
+"Num":"126",
+"Name":"Dragon Dragon Fruit, Model: Spinosaurus",
+"Japanese_Name":"Ryu Ryu no mi, Model: Spinosaurus",
+"Type":"Zoan",
+"image":"images/spinosaurus.png",
+"User":"images/people/spinosaurus1.png",
+"Description":"Allows you to transform into a spinosaurus",
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Spinosaurus",
+"Use":"Page One"
+},
+{
+"extID":154,
+"Num":"127",
+"Name":"Dragon Dragon Fruit, Model: Pteranodon",
+"Japanese_Name":"Ryu Ryu no mi, Model: Pteranodon",
+"Type":"Zoan",
+"image":"images/pteranodon.png",
+"User":"images/people/pteranodon1.png",
+"Description":"Allows you to transform into a pteranodon",
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Pteranodon",
+"Use":"King"
+},
+{
+"extID":155,
+"Num":"128",
+"Name":"Human Human Fruit, Model: Onyudo",
+"Japanese_Name":"Hito Hito no mi, Model: Onyudo",
+"Type":"Zoan",
+"image":"images/onyudo.png",
+"User":"images/people/onyudo1.png",
+"Description":"Allows you to transform into an onyudo, a large monk yokai",
+"wiki":"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Onyudo",
+"Use":"Onimaru"
+},
+{
+"extID":156,
+"Num":"129",
+"Name":"Dragon Dragon Fruit, Model: Brachiosaurus",
+"Japanese_Name":"Ryu Ryu no mi, Model: Brachiosaurus",
+"Type":"Zoan",
+"image":"images/brach.png",
+"User":"images/people/brach1.png",
+"Description":"Allows you to transform into a brachiosaurus",
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Brachiosaurus",
+"Use":"Queen"
+},
+{
+"extID":157,
+"Num":"130",
+"Name":"Dragon Dragon Fruit, Model: Pachycephalosaurus",
+"Japanese_Name":"Ryu Ryu no mi, Model: Pachycephalosaurus",
+"Type":"Zoan",
+"image":"images/pach.png",
+"User":"images/people/pach1.png",
+"Description":"Allows you to transform into a pachycephalosaurus",
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Pachycephalosaurus",
+"Use":"Ulti"
+},
+{
+"extID":158,
+"Num":"131",
+"Name":"Dog Dog Fruit, Model: Okuchi no Makami",
+"Japanese_Name":"Inu Inu no mi, Model: Okuchi no Makami",
+"Type":"Zoan",
+"image":"images/okuchi.png",
+"User":"images/people/okuchi1.png",
+"Description":"Allows you to transform into a hybrid and full version of an ancient wolf deity at will",
+"wiki":"https://onepiece.fandom.com/wiki/Inu_Inu_no_Mi,_Model:_Okuchi_no_Makami",
+"Use":"Yamato"
+},
+{
+"extID":159,
+"Num":"132",
+"Name":"Dragon Dragon Fruit, Model: Triceratops",
+"Japanese_Name":"Ryu Ryu no mi, Model: Triceratops",
+"Type":"Zoan",
+"image":"images/triceratops.png",
+"User":"images/people/triceratops1.png",
+"Description":"Allows you to transform into a triceratops",
+"wiki":"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Triceratops",
+"Use":"Sasaki"
+},
+{
+"extID":160,
+"Num":"133",
+"Name":"Spider Spider Fruit, Model: Rosamygale Grauvogeli",
+"Japanese_Name":"Kumo Kumo no mi, Model: Rosamygale Grauvogeli",
+"Type":"Zoan",
+"image":"images/old-spider.png",
+"User":"images/people/old-spider1.png",
+"Description":"Allows you to transform into a hybrid and full version of a Rosamygale grauvogeli, an ancient species of spider",
+"wiki":"https://onepiece.fandom.com/wiki/Kumo_Kumo_no_Mi,_Model:_Rosamygale_Grauvogeli",
+"Use":"Black Maria"
+},
+{
+"extID":161,
+"Num":"134",
+"Name":"Cat Cat Fruit, Model: Saber Tiger",
+"Japanese_Name":"Neko Neko no mi, Model: Saber Tiger",
+"Type":"Zoan",
+"image":"images/tiger.png",
+"User":"images/people/tiger1.png",
+"Description":"Allows you to transform into a saber-toothed tiger",
+"wiki":"https://onepiece.fandom.com/wiki/Neko_Neko_no_Mi,_Model:_Saber_Tiger",
+"Use":"Who's Who"
+},
+{
+"extID":167,
+"Num":"139",
+"Name":"Horse Horse Fruit, Model: Pegasus",
+"Japanese_Name":"Uma Uma no mi, Model: Pegasus",
+"Type":"Zoan",
+"image":"images/pegasus.png",
+"User":"images/people/pegasus1.png",
+"Description":"Allows you to transform into a pegasus",
+"wiki":"https://onepiece.fandom.com/wiki/Uma_Uma_no_Mi,_Model:_Pegasus",
+"Use":"Stronger"
+},
+{
+"extID":169,
+"Num":"141",
+"Name":"Bat Bat Fruit",
+"Japanese_Name":"Batto Batto no mi",
+"Type":"Zoan",
+"image":"images/bat.png",
+"User":"images/people/bat1.png",
+"Description":"Allows you to transform into a bat",
+"wiki":"https://onepiece.fandom.com/wiki/Batto_Batto_no_Mi",
+"Use":"Stussy"
 }
 ]

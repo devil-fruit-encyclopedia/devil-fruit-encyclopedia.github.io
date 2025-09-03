@@ -1,22 +1,23 @@
 let result = "";
-fetch("./frontEndData1.json")
+fetch("./frontEndDataCanon.json")
   .then(function (response) {
     return response.json();
   })
-  .then(function (data1) {
-    appendData(data1);
+  .then(function (datad) {
+    appendData(datad);
   })
   .catch(function (err) {
     console.log("error: " + err);
   });
-function appendData(data1) {
-  data1.forEach(({ Name, Japanese_Name, Type, image, User, Description, wiki, Use } = rows) => {
+function appendData(datad) {
+  datad.forEach(({ extID, Num, Name, Japanese_Name, Type, image, User, Description, wiki, Use } = rows) => {
     result += `
         <div class="card">
-        <img class="card-image" src="${image}" alt="Image of the ${Name}"/>
+        <h3 class="card-about">${Num}. ${Type}</h3>
+        <img class="card-image" src="${image}" alt="Image of the ${Name}"/> 
         <h2 class="card-name">${Name}</h2>
         <h2 class="card-name">${Japanese_Name}</h2>
-        <p class="card-link"><div class="dropdown"><span>▼</span><div class="dropdown-content"><p>${Description}<br><br>User: ${Use}<br><br><img class="card-image" src="${User}" alt="Image depicting ${Use}"/><br><br>
+        <p class="card-link"><div class="dropdown"><span>▼</span><div class="dropdown-content"><p>${Description}<br><br>User: ${Use}<br><br><img class="card-image" src="${User}" alt="Image depicting ${Use}"/><br><br> 
         <a class="card-link" href="${wiki}"><button class="btn">Read More</button></a></p></div></div></p>
         </div>
         `;

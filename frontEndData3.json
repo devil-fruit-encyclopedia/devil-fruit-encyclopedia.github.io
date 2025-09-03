@@ -1,128 +1,182 @@
 [
 {
-"extID":3,
+"extID":4,
+"Num":"2",
+"Name":"Liquid Liquid Fruit",
+"Japanese_Name":"Toro Toro no mi",
+"Type":"Logia",
+"image":"images/liquid.png",
+"User":"images/people/liquid1.png",
+"Description":"Allows you to create, control, and transform into liquid at will",
+"wiki":"https://onepiece.fandom.com/wiki/Toro_Toro_no_Mi",
+"Use":"Honey Queen"
+},
+{
+"extID":6,
+"Num":"3",
 "Name":"Plume Plume Fruit",
 "Japanese_Name":"Moku Moku no mi",
 "Type":"Logia",
 "image":"images/plume.png",
+"User":"images/people/plume1.png",
 "Description":"Allows you to create, control, and transform into smoke at will",
-"wiki":"https://onepiece.fandom.com/wiki/Moku_Moku_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Moku_Moku_no_Mi",
+"Use":"Smoker"
 },
 {
-"extID":9,
+"extID":14,
+"Num":"9",
 "Name":"Sand Sand Fruit",
 "Japanese_Name":"Suna Suna no mi",
 "Type":"Logia",
 "image":"images/sand.png",
+"User":"images/people/sand1.png",
 "Description":"Allows you to create, control, and transform into sand at will",
-"wiki":"https://onepiece.fandom.com/wiki/Suna_Suna_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Suna_Suna_no_Mi",
+"Use":"Crocodile"
 },
 {
-"extID":14,
+"extID":19,
+"Num":"14",
 "Name":"Flame Flame Fruit",
 "Japanese_Name":"Mera Mera no mi ",
 "Type":"Logia",
 "image":"images/flame.png",
+"User":"images/people/flame1.png",
 "Description":"Allows you to create, control, and transform into fire at will",
-"wiki":"https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi",
+"Use":"Portgas D. Ace -> Sabo"
 },
 {
-"extID":25,
+"extID":28,
+"Num":"7",
+"Name":"Candy Candy Fruit",
+"Japanese_Name":"Ame Ame no mi",
+"Type":"Logia",
+"image":"images/candy.png",
+"User":"images/people/candy1.png",
+"Description":"Allows you to create, control, and transform into candy syrup at will",
+"wiki":"https://onepiece.fandom.com/wiki/Ame_Ame_no_Mi",
+"Use":"Gasparde"
+},
+{
+"extID":32,
+"Num":"25",
 "Name":"Rumble Rumble Fruit",
 "Japanese_Name":"Goro Goro no mi",
 "Type":"Logia",
 "image":"images/rumble.png",
+"User":"images/people/rumble1.png",
 "Description":"Allows you to create, control, and transform into lightning at will",
-"wiki":"https://onepiece.fandom.com/wiki/Goro_Goro_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Goro_Goro_no_Mi",
+"Use":"Eneru/Enel"
 },
 {
-"extID":27,
+"extID":35,
+"Num":"27",
 "Name":"Ice Ice Fruit",
 "Japanese_Name":"Hie Hie no mi",
 "Type":"Logia",
 "image":"images/ice.png",
+"User":"images/people/ice1.png",
 "Description":"Allows you to create, control, and transform into ice at will",
-"wiki":"https://onepiece.fandom.com/wiki/Hie_Hie_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Hie_Hie_no_Mi",
+"Use":"Kuzan (Aokiji)"
 },
 {
-"extID":37,
+"extID":45,
+"Num":"37",
 "Name":"Dark Dark Fruit",
 "Japanese_Name":"Yami Yami no mi",
 "Type":"Logia",
 "image":"images/dark.png",
+"User":"images/people/dark1.png",
 "Description":"Allows you to create, control, and transform into darkness at will",
-"wiki":"https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi",
+"Use":"Marshall D. Teach (Blackbeard)"
 },
 {
-"extID":45,
+"extID":55,
+"Num":"45",
 "Name":"Glint Glint Fruit",
 "Japanese_Name":"Pika Pika no mi",
 "Type":"Logia",
 "image":"images/glint.png",
+"User":"images/people/glint1.png",
 "Description":"Allows you to create, control, and transform into light at will",
-"wiki":"https://onepiece.fandom.com/wiki/Pika_Pika_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Pika_Pika_no_Mi",
+"Use":"Borsalino (Kizaru)"
 },
 {
-"extID":66,
+"extID":77,
+"Num":"66",
 "Name":"Mag Mag Fruit",
 "Japanese_Name":"Magu Magu no mi",
 "Type":"Logia",
 "image":"images/mag.png",
+"User":"images/people/mag1.png",
 "Description":"Allows you to create, control, and transform into magma at will",
-"wiki":"https://onepiece.fandom.com/wiki/Magu_Magu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Magu_Magu_no_Mi",
+"Use":"Sakazuki (Akainu)"
 },
 {
-"extID":71,
+"extID":84,
+"Num":"71",
 "Name":"Swamp Swamp Fruit",
 "Japanese_Name":"Numa Numa no mi",
 "Type":"Logia",
 "image":"images/swamp.png",
+"User":"images/people/swamp1.png",
 "Description":"Allows you to create, control, and transform into mud at will",
-"wiki":"https://onepiece.fandom.com/wiki/Numa_Numa_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Numa_Numa_no_Mi",
+"Use":"Caribou"
 },
 {
-"extID":76,
+"extID":93,
+"Num":"76",
 "Name":"Gas Gas Fruit",
 "Japanese_Name":"Gasu Gasu no mi",
 "Type":"Logia",
 "image":"images/gas.png",
+"User":"images/people/gas1.png",
 "Description":"Allows you to create, control, and transform into gas at will",
-"wiki":"https://onepiece.fandom.com/wiki/Gasu_Gasu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Gasu_Gasu_no_Mi",
+"Use":"Caesar Clown"
 },
 {
-"extID":79,
+"extID":96,
+"Num":"79",
 "Name":"Snow Snow Fruit",
 "Japanese_Name":"Yuki Yuki no mi",
 "Type":"Logia",
 "image":"images/snow.png",
+"User":"images/people/snow1.png",
 "Description":"Allows you to create, control, and transform into snow at will",
-"wiki":"https://onepiece.fandom.com/wiki/Yuki_Yuki_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Yuki_Yuki_no_Mi",
+"Use":"Monet"
 },
 {
-"extID":118,
+"extID":143,
+"Num":"118",
 "Name":"Soot Soot Fruit",
 "Japanese_Name":"Susu Susu no mi",
 "Type":"Logia",
 "image":"images/soot.png",
+"User":"images/people/soot1.png",
 "Description":"Allows you to create, control, and transform into soot at will",
-"wiki":"https://onepiece.fandom.com/wiki/Susu_Susu_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Susu_Susu_no_Mi",
+"Use":"Karasu"
 },
 {
-"extID":135,
+"extID":163,
+"Num":"135",
 "Name":"Woods Woods Fruit",
 "Japanese_Name":"Mori Mori no mi",
 "Type":"Logia",
 "image":"images/woods.png",
+"User":"images/people/woods1.png",
 "Description":"Allows you to create, control, and transform into flora at will",
-"wiki":"https://onepiece.fandom.com/wiki/Mori_Mori_no_Mi"
-},
-{
-"extID":150,
-"Name":"Paper Paper Fruit",
-"Japanese_Name":"Pasa Pasa no Mi",
-"Type":"Logia",
-"image":"images/paper.png",
-"Description":"Allows you to create, control, and transform into pieces of paper at will",
-"wiki":"https://onepiece.fandom.com/wiki/Pasa_Pasa_no_Mi"
+"wiki":"https://onepiece.fandom.com/wiki/Mori_Mori_no_Mi",
+"Use":"Aramaki (Ryokugyu)"
 }
 ]
